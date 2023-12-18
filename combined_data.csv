@@ -1,0 +1,443 @@
+,Player,Mat,Inns,Overs,Mdns,Runs,Wkts,BBI,Ave,Econ,SR,5,10,Ct,St,Type,Name,Age,Batting style,Bowling style,Role,Arm,Consolidated_Bowling_Style,BF,HS,Team 1,Team 2,Winner,Margin,Wins,Country
+0,TH David,4.0,1.0,2.0,0.0,20.0,1.0,1/20,20.0,10.0,12.0,0.0,0.0,0.0,0.0,bowling,David Warner,37,Left-handed,Right arm leg break,All-Rounders,Right,Leg break,,,,,,,14,Australia
+1,A Zampa,20.0,20.0,173.0,4.0,1000.0,38.0,4/8,26.31,5.78,27.3,0.0,0.0,2.0,0.0,bowling,Adam Zampa,31,Right-handed,Right arm leg break,Spin Bowler,Right,Leg break,,,,,,,14,Australia
+2,AC Agar,2.0,2.0,19.0,0.0,81.0,3.0,2/41,27.0,4.26,38.0,0.0,0.0,0.0,0.0,bowling,Ashton Agar,30,Left-handed,Slow left arm orthodox,Pace Bowler,Left,Slow left arm,,,,,,,14,Australia
+3,MA Starc,14.0,14.0,121.5,3.0,750.0,25.0,5/53,30.0,6.15,29.2,1.0,0.0,7.0,0.0,bowling,Mitchell Starc,33,Left-handed,Left arm fast,Pace Bowler,Left,Fast,,,,,,,14,Australia
+4,AM Hardie,1.0,1.0,10.0,0.0,62.0,2.0,2/62,31.0,6.2,30.0,0.0,0.0,0.0,0.0,bowling,,24,,,,,,,,,,,,14,Australia
+91,JR Hazlewood,16.0,16.0,140.1,10.0,747.0,24.0,3/38,31.12,5.32,35.0,0.0,0.0,5.0,0.0,bowling,Josh Hazlewood,32,Left-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,14,Australia
+92,NT Ellis,5.0,5.0,41.0,1.0,242.0,7.0,2/13,34.57,5.9,35.1,0.0,0.0,2.0,0.0,bowling,Nathan Ellis,29,Right-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,14,Australia
+93,PJ Cummins,13.0,13.0,107.3,1.0,618.0,17.0,3/51,36.35,5.74,37.9,0.0,0.0,5.0,0.0,bowling,Pat Cummins,30,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,14,Australia
+94,MP Stoinis,13.0,12.0,66.1,2.0,412.0,11.0,2/20,37.45,6.22,36.0,0.0,0.0,4.0,0.0,bowling,,34,,,,,,,,,,,,14,Australia
+181,SA Abbott,10.0,10.0,84.3,2.0,487.0,13.0,3/23,37.46,5.76,39.0,0.0,0.0,5.0,0.0,bowling,Sean Abbott,31,Right-handed,Right arm fast medium,All-Rounders,Right,Fast medium,,,,,,,14,Australia
+182,GJ Maxwell,11.0,10.0,80.3,1.0,377.0,10.0,4/40,37.7,4.68,48.3,0.0,0.0,6.0,0.0,bowling,,35,,,,,,,,,,,,14,Australia
+269,TM Head,13.0,7.0,35.0,0.0,181.0,4.0,2/21,45.25,5.17,52.5,0.0,0.0,4.0,0.0,bowling,Travis Head,29,Left-handed,Right arm off break,Batters,Right,Off break,,,,,,,14,Australia
+270,MR Marsh,20.0,5.0,13.0,0.0,96.0,2.0,2/19,48.0,7.38,39.0,0.0,0.0,4.0,0.0,bowling,,32,,,,,,,,,,,,14,Australia
+357,T Sangha,2.0,2.0,18.0,0.0,125.0,2.0,1/61,62.5,6.94,54.0,0.0,0.0,0.0,0.0,bowling,Tanveer Sangha,21,Right-handed,Right arm leg break,Spin Bowler,Right,Leg break,,,,,,,14,Australia
+358,C Green,10.0,8.0,50.4,0.0,334.0,5.0,2/103,66.8,6.59,60.8,0.0,0.0,5.0,0.0,bowling,Cameron Green,24,Right-handed,Right arm fast medium,All-Rounders,Right,Fast medium,,,,,,,14,Australia
+359,MG Neser,2.0,2.0,20.0,1.0,119.0,1.0,1/59,119.0,5.95,120.0,0.0,0.0,1.0,0.0,bowling,Michael Neser,33,Right-handed,Right arm medium fast,Wicket Keeper,Right,Fast medium,,,,,,,14,Australia
+360,MW Short,2.0,2.0,10.0,0.0,54.0,0.0,0,0.0,5.4,0.0,0.0,0.0,1.0,0.0,bowling,,28,,,,,,,,,,,,14,Australia
+447,SH Johnson,1.0,1.0,8.0,0.0,61.0,0.0,0,0.0,7.62,0.0,0.0,0.0,0.0,0.0,bowling,Spencer Johnson,27,Left-handed,Left arm fast mediun,Pace Bowler,Left,Fast medium,,,,,,,14,Australia
+448,M Labuschagne,22.0,1.0,3.0,0.0,33.0,0.0,0,0.0,11.0,0.0,0.0,0.0,14.0,0.0,bowling,Marnus Labuschagne,29,Right-handed,Right arm leg break,Batters,Right,Leg break,,,,,,,14,Australia
+449,AT Carey,10.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,bowling,,,,,,,,,,,,,,14,Australia
+536,JP Inglis,16.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,16.0,2.0,bowling,Josh Inglis,28,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,14,Australia
+537,SPD Smith,16.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,bowling,,,,,,,,,,,,,,14,Australia
+624,DA Warner,20.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,bowling,David Warner,37,Left-handed,Right arm leg break,All-Rounders,Right,Leg break,,,,,,,14,Australia
+625,Rahmat Shah,18.0,2.0,2.1,0.0,18.0,1.0,1/6,18.0,8.3,13.0,0.0,0.0,6.0,0.0,bowling,Rahmat Shah,30,Right-handed,Right arm leg break,All-Rounders,Right,Leg break,,,,,,,7,Afghanistan
+626,Gulbadin Naib,4.0,4.0,29.0,1.0,173.0,8.0,4/60,21.62,5.96,21.7,0.0,0.0,0.0,0.0,bowling,Gulbadin Naib,32,Right-handed,Right arm medium fast,All-Rounders,Right,Fast medium,,,,,,,7,Afghanistan
+627,Fareed Ahmad,4.0,4.0,28.0,0.0,182.0,6.0,2/43,30.33,6.5,28.0,0.0,0.0,0.0,0.0,bowling,Fareed Ahmad,29,Left-handed,Left arm fast medium,Spin Bowler,Left,Fast medium,,,,,,,7,Afghanistan
+628,Mohammad Nabi,20.0,20.0,139.3,4.0,601.0,18.0,3/28,33.38,4.3,46.5,0.0,0.0,11.0,0.0,bowling,Mohammad Nabi,38,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,7,Afghanistan
+629,Fazalhaq Farooqi,17.0,17.0,118.5,7.0,705.0,21.0,4/34,33.57,5.93,33.9,0.0,0.0,1.0,0.0,bowling,Fazalhaq Farooqi,23,Right-handed,Left arm fast medium,Spin Bowler,Left,Fast medium,,,,,,,7,Afghanistan
+630,Rashid Khan,17.0,17.0,158.3,4.0,724.0,20.0,3/37,36.2,4.56,47.5,0.0,0.0,6.0,0.0,bowling,Rashid Khan,25,Right-handed,Right arm leg break,All-Rounders,Right,Leg break,,,,,,,7,Afghanistan
+631,Mujeeb Ur Rahman,20.0,20.0,179.5,8.0,907.0,22.0,3/33,41.22,5.04,49.0,0.0,0.0,2.0,0.0,bowling,Mujeeb Ur Rahman,22,Right-handed,Right arm off break,Spin Bowler,Right,Off break,,,,,,,7,Afghanistan
+632,Noor Ahmad,6.0,6.0,55.0,1.0,306.0,7.0,3/49,43.71,5.56,47.1,0.0,0.0,1.0,0.0,bowling,Noor Ahmad,18,Right-handed,Slow left arm unorthodox,Wicket Keeper,Left,Slow left arm,,,,,,,7,Afghanistan
+633,Naveen-ul-Haq,8.0,8.0,53.4,1.0,352.0,8.0,2/47,44.0,6.55,40.2,0.0,0.0,2.0,0.0,bowling,Naveen-ul-Haq,24,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,7,Afghanistan
+634,Azmatullah Omarzai,15.0,15.0,68.4,2.0,445.0,9.0,2/52,49.44,6.48,45.7,0.0,0.0,1.0,0.0,bowling,Azmatullah Omarzai,23,Right-handed,Right arm medium fast,All-Rounders,Right,Fast medium,,,,,,,7,Afghanistan
+635,Abdul Rahman,3.0,3.0,17.2,0.0,133.0,1.0,1/83,133.0,7.67,104.0,0.0,0.0,0.0,0.0,bowling,Abdul Rahman,22,Right-handed,Right arm medium fast,Spin Bowler,Right,Fast medium,,,,,,,7,Afghanistan
+636,Zia-ur-Rehman,1.0,1.0,3.3,0.0,22.0,0.0,0,0.0,6.28,0.0,0.0,0.0,0.0,0.0,bowling,Zia-ur-Rehman,25,Right-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,7,Afghanistan
+637,Karim Janat,2.0,2.0,9.0,0.0,59.0,0.0,0,0.0,6.55,0.0,0.0,0.0,0.0,0.0,bowling,Karim Janat,25,Right-handed,Right arm medium,All-Rounders,Right,Medium,,,,,,,7,Afghanistan
+638,Mohammad Saleem,2.0,2.0,10.2,0.0,70.0,0.0,0,0.0,6.77,0.0,0.0,0.0,1.0,0.0,bowling,Mohammad Saleem,21,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,7,Afghanistan
+639,Hashmatullah Shahidi,20.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,Hashmatullah Shahidi,29,Left-handed,Right arm off break,Batters,Right,Off break,,,,,,,7,Afghanistan
+640,Ibrahim Zadran,20.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,bowling,Ibrahim Zadran,21,Right-handed,Right arm medium fast,Batters,Right,Fast medium,,,,,,,7,Afghanistan
+641,Ikram Alikhil,9.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,bowling,Ikram Alikhil,23,Left-handed,Other,Wicket Keeper,Other,Other,,,,,,,7,Afghanistan
+642,Najibullah Zadran,10.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Najibullah Zadran,30,Left-handed,Right arm off break,Batters,Right,Off break,,,,,,,7,Afghanistan
+643,Rahmanullah Gurbaz,20.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,bowling,Rahmanullah Gurbaz,21,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,7,Afghanistan
+644,Riaz Hassan,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,bowling,Riaz Hassan,21,Right-handed,Other,Batters,Other,Other,,,,,,,7,Afghanistan
+645,Shahidullah,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Shahidullah Kamal,24,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,7,Afghanistan
+646,Khaled Ahmed,2.0,2.0,13.2,1.0,72.0,3.0,3/60,24.0,5.4,26.6,0.0,0.0,0.0,0.0,bowling,Khaled Ahmed,31,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,10,Bangladesh
+647,Taskin Ahmed,18.0,17.0,137.3,10.0,659.0,26.0,4/44,25.34,4.79,31.7,0.0,0.0,2.0,0.0,bowling,Taskin Ahmed,28,Left-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,10,Bangladesh
+648,Taijul Islam,6.0,6.0,48.0,0.0,261.0,10.0,3/54,26.1,5.43,28.8,0.0,0.0,2.0,0.0,bowling,,31,,,,,,,,,,,,10,Bangladesh
+735,Ebadot Hossain,8.0,7.0,54.4,3.0,294.0,11.0,4/42,26.72,5.37,29.8,0.0,0.0,0.0,0.0,bowling,Najmul Hossain Shanto,25,Left-handed,Right arm off break,Batters,Right,Off break,,,,,,,10,Bangladesh
+736,Shoriful Islam,16.0,16.0,122.4,7.0,697.0,26.0,4/21,26.8,5.68,28.3,0.0,0.0,1.0,0.0,bowling,Shoriful Islam,22,Left-handed,Left arm medium fast,Pace Bowler,Left,Fast medium,,,,,,,10,Bangladesh
+737,Tanzim Hasan Sakib,3.0,3.0,23.3,1.0,137.0,5.0,3/80,27.4,5.82,28.2,0.0,0.0,0.0,0.0,bowling,Tanzim Hasan,21,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,10,Bangladesh
+738,Mahedi Hasan,8.0,8.0,65.0,1.0,331.0,12.0,4/71,27.58,5.09,32.5,0.0,0.0,2.0,0.0,bowling,Mahedi Hasan,28,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,10,Bangladesh
+739,Hasan Mahmud,14.0,13.0,103.1,4.0,622.0,20.0,5/32,31.1,6.02,30.9,1.0,0.0,1.0,0.0,bowling,Hasan Mahmud,24,Right-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,10,Bangladesh
+740,Shakib Al Hasan,23.0,20.0,174.0,7.0,816.0,23.0,4/35,35.47,4.68,45.3,0.0,0.0,6.0,0.0,bowling,Hasan Ali,29,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,10,Bangladesh
+741,Mehidy Hasan Miraz,24.0,22.0,162.0,7.0,866.0,22.0,3/25,39.36,5.34,44.1,0.0,0.0,8.0,0.0,bowling,Mehidy Hasan Miraz,26,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,10,Bangladesh
+742,Mustafizur Rahman,19.0,19.0,147.5,6.0,815.0,20.0,4/44,40.75,5.51,44.3,0.0,0.0,3.0,0.0,bowling,Mustafizur Rahman,28,Left-handed,Left arm fast medium,Pace Bowler,Left,Fast medium,,,,,,,10,Bangladesh
+743,Najmul Hossain Shanto,24.0,4.0,7.2,0.0,41.0,1.0,1/10,41.0,5.59,44.0,0.0,0.0,8.0,0.0,bowling,Najmul Hossain Shanto,25,Left-handed,Right arm off break,Batters,Right,Off break,,,,,,,10,Bangladesh
+744,Nasum Ahmed,11.0,10.0,83.3,4.0,422.0,7.0,3/43,60.28,5.05,71.5,0.0,0.0,3.0,0.0,bowling,Nasum Ahmed,28,Left-handed,Slow left arm orthodox,Spin Bowler,Left,Slow left arm,,,,,,,10,Bangladesh
+745,Afif Hossain,8.0,1.0,1.0,0.0,6.0,0.0,0,0.0,6.0,0.0,0.0,0.0,3.0,0.0,bowling,Afif Hossain,24,Left-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,10,Bangladesh
+746,Mahmudullah,14.0,5.0,12.5,0.0,79.0,0.0,0,0.0,6.15,0.0,0.0,0.0,7.0,0.0,bowling,Mahmudullah,37,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,10,Bangladesh
+747,Soumya Sarkar,2.0,1.0,2.0,0.0,13.0,0.0,0,0.0,6.5,0.0,0.0,0.0,1.0,0.0,bowling,Soumya Sarkar,30,Left-handed,Right arm medium fast,Batters,Right,Fast medium,,,,,,,10,Bangladesh
+748,Mrittunjoy Chowdhury,1.0,1.0,8.0,0.0,64.0,0.0,0,0.0,8.0,0.0,0.0,0.0,2.0,0.0,bowling,,23,,,,,,,,,,,,10,Bangladesh
+835,Shamim Hossain,4.0,2.0,2.0,0.0,18.0,0.0,0,0.0,9.0,0.0,0.0,0.0,1.0,0.0,bowling,Shamim Hossain,23,Left-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,10,Bangladesh
+836,Anamul Haque,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Anamul Haque,30,Right-handed,Right arm medium fast,Batters,Right,Fast medium,,,,,,,10,Bangladesh
+837,Litton Das,26.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,15.0,1.0,bowling,Liton Das,29,Right-handed,Right arm off break,Wicket Keeper,Right,Off break,,,,,,,10,Bangladesh
+838,Mohammad Naim,6.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Mohammad Nabi,38,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,10,Bangladesh
+839,Mushfiqur Rahim,26.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,22.0,4.0,bowling,Mushfiqur Rahim,36,Right-handed,Right arm off break,Wicket Keeper,Right,Off break,,,,,,,10,Bangladesh
+840,Nurul Hasan,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,bowling,Mahmudul Hasan Joy,23,Right-handed,Other,Batters,Other,Other,,,,,,,10,Bangladesh
+841,Rony Talukdar,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Rony Talukdar,33,Right-handed,Other,Batters,Other,Other,,,,,,,10,Bangladesh
+842,Tamim Iqbal,12.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,bowling,Tamim Iqbal,34,Left-handed,Left arm off break,Batters,Left,Off break,,,,,,,10,Bangladesh
+843,Tanzid Hasan,14.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,Tanzid Hasan,22,Left-handed,Other,Batters,Other,Other,,,,,,,10,Bangladesh
+844,Towhid Hridoy,24.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,bowling,Towhid Hridoy,22,Right-handed,Other,Batters,Other,Other,,,,,,,10,Bangladesh
+845,Yasir Ali,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Yasir Ali,27,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,10,Bangladesh
+846,Zakir Hasan,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,Zakir Hasan,25,Right-handed,Other,Batters,Other,Other,,,,,,,10,Bangladesh
+847,JOA Gordon,5.0,5.0,41.2,1.0,202.0,12.0,6/43,16.83,4.88,20.6,1.0,0.0,1.0,0.0,bowling,,36,,,,,,,,,,,,3,Canada
+934,H Thaker,5.0,5.0,43.0,3.0,144.0,6.0,2/27,24.0,3.34,43.0,0.0,0.0,2.0,0.0,bowling,,26,,,,,,,,,,,,3,Canada
+1021,Saad Bin Zafar,5.0,5.0,45.0,0.0,215.0,8.0,3/43,26.87,4.77,33.7,0.0,0.0,1.0,0.0,bowling,Saad Bin Zafar,37,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,3,Canada
+1022,Kaleem Sana,5.0,5.0,42.0,5.0,207.0,7.0,3/14,29.57,4.92,36.0,0.0,0.0,1.0,0.0,bowling,Kaleem Sana,29,Right-handed,Left arm medium,Pace Bowler,Left,Medium,,,,,,,3,Canada
+1023,Pargat Singh,5.0,3.0,14.0,0.0,61.0,2.0,1/20,30.5,4.35,42.0,0.0,0.0,1.0,0.0,bowling,Pargat Singh,31,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,3,Canada
+1024,N Dutta,5.0,4.0,33.0,1.0,135.0,4.0,2/30,33.75,4.09,49.5,0.0,0.0,1.0,0.0,bowling,Nikhil Dutta,29,Right-handed,Right arm off break,Spin Bowler,Right,Off break,,,,,,,3,Canada
+1025,D Heyliger,2.0,2.0,13.0,0.0,45.0,1.0,1/34,45.0,3.46,78.0,0.0,0.0,0.0,0.0,bowling,Dillon Heyliger,34,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,3,Canada
+1026,A Johnson,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,Spencer Johnson,27,Left-handed,Left arm fast mediun,Pace Bowler,Left,Fast medium,,,,,,,14,Australia
+1027,NR Kirton,3.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Nicholas Kirton,25,Left-handed,Right arm off break,Batters,Right,Off break,,,,,,,3,Canada
+1028,Ravinderpal Singh,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,Ravinderpal Singh,35,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,3,Canada
+1029,M Spoors,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Matthew Spoors,24,Right-handed,Right arm leg break,Batters,Right,Leg break,,,,,,,3,Canada
+1030,SA Wijeyeratne,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,8.0,2.0,bowling,Srimantha Wijeyeratne,34,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,3,Canada
+1031,JC Archer,4.0,4.0,38.0,2.0,193.0,12.0,6/40,16.08,5.07,19.0,1.0,0.0,1.0,0.0,bowling,,28,,,,,,,,,,,,10,England
+1118,GLS Scrimshaw,1.0,1.0,8.4,0.0,66.0,3.0,3/66,22.0,7.61,17.3,0.0,0.0,0.0,0.0,bowling,,25,,,,,,,,,,,,10,England
+1205,Rehan Ahmed,3.0,2.0,20.0,0.0,116.0,5.0,4/54,23.2,5.8,24.0,0.0,0.0,1.0,0.0,bowling,,19,,,,,,,,,,,,10,England
+1292,MJ Potts,2.0,1.0,7.0,0.0,47.0,2.0,2/47,23.5,6.71,21.0,0.0,0.0,0.0,0.0,bowling,,25,,,,,,,,,,,,10,England
+1379,DJ Willey,10.0,10.0,74.5,7.0,391.0,16.0,3/34,24.43,5.22,28.0,0.0,0.0,2.0,0.0,bowling,,33,,,,,,,,,,,,10,England
+1466,AU Rashid,16.0,16.0,141.4,1.0,791.0,30.0,4/45,26.36,5.58,28.3,0.0,0.0,4.0,0.0,bowling,,35,,,,,,,,,,,,10,England
+1553,OP Stone,2.0,2.0,17.0,1.0,85.0,3.0,2/48,28.33,5.0,34.0,0.0,0.0,0.0,0.0,bowling,,30,,,,,,,,,,,,10,England
+1640,SM Curran,11.0,11.0,71.2,5.0,449.0,14.0,4/29,32.07,6.29,30.5,0.0,0.0,5.0,0.0,bowling,,25,,,,,,,,,,,,10,England
+1727,CR Woakes,14.0,14.0,100.1,3.0,522.0,16.0,4/54,32.62,5.21,37.5,0.0,0.0,3.0,0.0,bowling,,34,,,,,,,,,,,,10,England
+1814,RJW Topley,9.0,9.0,70.4,3.0,432.0,13.0,4/43,33.23,6.11,32.6,0.0,0.0,3.0,0.0,bowling,,29,,,,,,,,,,,,10,England
+1901,LS Livingstone,10.0,9.0,48.4,1.0,255.0,7.0,3/16,36.42,5.23,41.7,0.0,0.0,2.0,0.0,bowling,,30,,,,,,,,,,,,10,England
+1988,MM Ali,15.0,15.0,103.0,2.0,593.0,16.0,4/50,37.06,5.75,38.6,0.0,0.0,11.0,0.0,bowling,Yasir Ali,27,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,10,England
+1989,BA Carse,3.0,2.0,15.0,0.0,93.0,2.0,1/40,46.5,6.2,45.0,0.0,0.0,1.0,0.0,bowling,,28,,,,,,,,,,,,10,England
+2076,AAP Atkinson,6.0,6.0,41.0,0.0,240.0,5.0,2/45,48.0,5.85,49.2,0.0,0.0,0.0,0.0,bowling,,25,,,,,,,,,,,,10,England
+2163,MA Wood,9.0,9.0,66.0,1.0,397.0,8.0,2/34,49.62,6.01,49.5,0.0,0.0,2.0,0.0,bowling,,33,,,,,,,,,,,,10,England
+2250,WG Jacks,4.0,3.0,14.0,0.0,72.0,1.0,1/18,72.0,5.14,84.0,0.0,0.0,1.0,0.0,bowling,,25,,,,,,,,,,,,10,England
+2337,JE Root,13.0,3.0,14.1,0.0,92.0,1.0,1/19,92.0,6.49,85.0,0.0,0.0,7.0,0.0,bowling,,,,,,,,,,,,,,10,England
+2424,S Mahmood,1.0,1.0,9.0,0.0,41.0,0.0,0,0.0,4.55,0.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,10,England
+2511,TW Hartley,2.0,1.0,10.0,0.0,48.0,0.0,0,0.0,4.8,0.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,10,England
+2598,JM Bairstow,12.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,bowling,,,,,,,,,,,,,,10,England
+2685,HC Brook,12.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,,,,,,,,,,,,,,10,England
+2772,JC Buttler,19.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,29.0,3.0,bowling,,,,,,,,,,,,,,10,England
+2859,Z Crawley,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,10,England
+2946,BM Duckett,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,bowling,,,,,,,,,,,,,,10,England
+3033,SR Hain,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,10,England
+3120,DJ Malan,18.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,bowling,Malan Kruger,28,Right-handed,Slow left arm orthodox,Spin Bowler,Left,Slow left arm,,,,,,,10,England
+3121,JJ Roy,6.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,,,,,,,,,,,,,,10,England
+3208,PD Salt,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,,,,,,,,,,,,,,10,England
+3295,JL Smith,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,JJ Smit,28,Right-handed,Left arm medium fast,All-Rounders,Left,Fast medium,,,,,,,10,England
+3296,BA Stokes,9.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,bowling,,,,,,,,,,,,,,10,England
+3383,JM Vince,3.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,,,,,,,,,,,,,,10,England
+3470,L Wood,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,K. L. Rahul,31,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,10,England
+3471,RG Sharma,27.0,1.0,0.5,0.0,7.0,1.0,1/7,7.0,8.4,5.0,0.0,0.0,9.0,0.0,bowling,Aryansh Sharma,18,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,25,India
+3472,V Kohli,27.0,2.0,3.3,0.0,15.0,1.0,1/13,15.0,4.28,21.0,0.0,0.0,12.0,0.0,bowling,Virat Kohli,35,Right-handed,Right arm medium,Batters,Right,Medium,,,,,,,25,India
+3473,JD Unadkat,1.0,1.0,5.0,0.0,16.0,1.0,1/16,16.0,3.2,30.0,0.0,0.0,1.0,0.0,bowling,Jaydev Unadkat,32,Right-handed,Left arm medium,Pace Bowler,Left,Medium,,,,,,,25,India
+3474,Mohammed Shami,19.0,19.0,132.5,12.0,708.0,43.0,7/57,16.46,5.32,18.5,4.0,0.0,3.0,0.0,bowling,Mohammed Shami,33,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,25,India
+3475,Mukesh Kumar,3.0,3.0,15.0,2.0,69.0,4.0,3/30,17.25,4.6,22.5,0.0,0.0,0.0,0.0,bowling,Mukesh Kumar,30,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,25,India
+3476,Kuldeep Yadav,28.0,27.0,207.1,13.0,953.0,48.0,5/25,19.85,4.6,25.8,1.0,0.0,6.0,0.0,bowling,Kuldeep Yadav,28,Left-handed,Left arm unorthodox spin,Spin Bowler,Left,Unorthodox spin,,,,,,,25,India
+3477,JJ Bumrah,17.0,16.0,128.5,14.0,568.0,28.0,4/39,20.28,4.4,27.6,0.0,0.0,1.0,0.0,bowling,Jasprit Bumrah,29,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,25,India
+3478,Mohammed Siraj,25.0,24.0,172.1,17.0,910.0,44.0,6/21,20.68,5.28,23.4,1.0,0.0,2.0,0.0,bowling,Mohammed Siraj,29,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,25,India
+3479,R Ashwin,3.0,3.0,27.0,1.0,122.0,5.0,3/41,24.4,4.51,32.4,0.0,0.0,1.0,0.0,bowling,Ravichandran Ashwin,37,Right-handed,Right arm off spin,All-Rounders,Right,Off spin,,,,,,,25,India
+3480,HH Pandya,20.0,19.0,94.3,7.0,522.0,21.0,3/3,24.85,5.52,27.0,0.0,0.0,7.0,0.0,bowling,,,,,,,,,,,,,,25,India
+3567,SN Thakur,16.0,15.0,87.5,2.0,552.0,21.0,4/37,26.28,6.28,25.0,0.0,0.0,2.0,0.0,bowling,Shardul Thakur,32,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,25,India
+3568,RA Jadeja,26.0,23.0,189.5,6.0,874.0,31.0,5/33,28.19,4.6,36.7,1.0,0.0,11.0,0.0,bowling,Ravindra Jadeja,34,Left-handed,Left arm orthodox spin,All-Rounders,Left,Orthodox spin,,,,,,,25,India
+3569,Umran Malik,5.0,5.0,28.0,0.0,201.0,6.0,3/57,33.5,7.17,28.0,0.0,0.0,1.0,0.0,bowling,Umran Malik,24,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,25,India
+3570,YS Chahal,2.0,2.0,17.2,0.0,101.0,3.0,2/43,33.66,5.82,34.6,0.0,0.0,0.0,0.0,bowling,Yuzvendra Chahal,33,Right-handed,Right arm leg spin,Spin Bowler,Right,Leg spin,,,,,,,25,India
+3571,M Prasidh Krishna,3.0,3.0,20.0,0.0,144.0,4.0,2/56,36.0,7.2,30.0,0.0,0.0,1.0,0.0,bowling,Prasidh Krishna,27,Right-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,25,India
+3572,AR Patel,8.0,7.0,42.0,1.0,236.0,4.0,2/57,59.0,5.61,63.0,0.0,0.0,6.0,0.0,bowling,Axar Patel,29,Left-handed,Left arm orthodox spin,All-Rounders,Left,Orthodox spin,,,,,,,25,India
+3573,Washington Sundar,6.0,4.0,26.0,1.0,154.0,2.0,2/7,77.0,5.92,78.0,0.0,0.0,1.0,0.0,bowling,Washington Sundar,24,Left-handed,Right arm off spin,All-Rounders,Right,Off spin,,,,,,,25,India
+3574,SS Iyer,19.0,1.0,1.0,0.0,2.0,0.0,0,0.0,2.0,0.0,0.0,0.0,9.0,0.0,bowling,Shreyas Iyer,28,Right-handed,Right arm leg spin,Batters,Right,Leg spin,,,,,,,25,India
+3575,NT Tilak Varma,1.0,1.0,4.0,0.0,21.0,0.0,0,0.0,5.25,0.0,0.0,0.0,1.0,0.0,bowling,Tilak Varma,21,Left-handed,Right arm off spin,All-Rounders,Right,Off spin,,,,,,,25,India
+3576,Shubman Gill,29.0,1.0,2.0,0.0,11.0,0.0,0,0.0,5.5,0.0,0.0,0.0,24.0,0.0,bowling,Shubman Gill,24,Right-handed,Right arm off spin,Batters,Right,Off spin,,,,,,,25,India
+3577,SA Yadav,21.0,1.0,2.0,0.0,17.0,0.0,0,0.0,8.5,0.0,0.0,0.0,7.0,0.0,bowling,Suryakumar Yadav,33,Right-handed,Right arm off spin,Batters,Right,Off spin,,,,,,,25,India
+3578,RD Gaikwad,3.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,Ruturaj Gaikwad,26,Right-handed,Other,Batters,Other,Other,,,,,,,25,India
+3579,Ishan Kishan,17.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,10.0,1.0,bowling,Ishan Kishan,25,Left-handed,Other,Wicket Keeper,Other,Other,,,,,,,25,India
+3580,KL Rahul,24.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,30.0,3.0,bowling,K. L. Rahul,31,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,25,India
+3581,SV Samson,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,25,India
+3668,CA Young,5.0,5.0,38.0,1.0,193.0,11.0,3/31,17.54,5.07,20.7,0.0,0.0,3.0,0.0,bowling,Craig Young,33,Right-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,4,Ireland
+3669,GI Hume,9.0,9.0,64.0,2.0,367.0,14.0,4/60,26.21,5.73,27.4,0.0,0.0,2.0,0.0,bowling,Graham Hume,32,Left-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,4,Ireland
+3670,MR Adair,17.0,17.0,136.5,7.0,773.0,28.0,4/40,27.6,5.64,29.3,0.0,0.0,9.0,0.0,bowling,Mark Adair,27,Right-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,4,Ireland
+3671,GH Dockrell,17.0,12.0,65.0,0.0,367.0,13.0,3/43,28.23,5.64,30.0,0.0,0.0,3.0,0.0,bowling,George Dockrell,31,Right-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,4,Ireland
+3672,BJ McCarthy,6.0,6.0,49.4,3.0,305.0,9.0,3/56,33.88,6.14,33.1,0.0,0.0,3.0,0.0,bowling,Barry McCarthy,31,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,4,Ireland
+3673,JB Little,12.0,12.0,97.0,0.0,658.0,16.0,4/38,41.12,6.78,36.3,0.0,0.0,3.0,0.0,bowling,Josh Little,24,Right-handed,Left arm fast medium,Pace Bowler,Left,Fast medium,,,,,,,4,Ireland
+3674,TF van Woerkom,1.0,1.0,4.0,0.0,47.0,1.0,1/47,47.0,11.75,24.0,0.0,0.0,1.0,0.0,bowling,Rassie van der Dussen,34,Right-handed,Right arm leg break,Batters,Right,Leg break,,,,,,,4,Ireland
+3675,C Campher,16.0,15.0,71.1,1.0,456.0,9.0,2/14,50.66,6.4,47.4,0.0,0.0,6.0,0.0,bowling,Curtis Campher,24,Right-handed,Right arm medium fast,All-Rounders,Right,Fast medium,,,,,,,4,Ireland
+3676,AR McBrine,15.0,14.0,102.0,2.0,541.0,9.0,2/19,60.11,5.3,68.0,0.0,0.0,7.0,0.0,bowling,Andy McBrine,30,Left-handed,Right arm off break,Spin Bowler,Right,Off break,,,,,,,4,Ireland
+3677,GJ Delany,8.0,5.0,36.0,0.0,212.0,3.0,2/52,70.66,5.88,72.0,0.0,0.0,5.0,0.0,bowling,,,,,,,,,,,,,,4,Ireland
+3764,B White,2.0,2.0,18.0,0.0,118.0,1.0,1/59,118.0,6.55,108.0,0.0,0.0,0.0,0.0,bowling,Ben White,25,Right-handed,Right arm leg break,Spin Bowler,Right,Leg break,,,,,,,4,Ireland
+3765,HT Tector,17.0,5.0,22.0,0.0,143.0,1.0,1/20,143.0,6.5,132.0,0.0,0.0,9.0,0.0,bowling,,,,,,,,,,,,,,4,Ireland
+3852,MJ Humphreys,2.0,2.0,11.0,0.0,95.0,0.0,0,0.0,8.63,0.0,0.0,0.0,0.0,0.0,bowling,Matthew Humphreys,21,Right-handed,Slow left arm orthodox,Spin Bowler,Left,Slow left arm,,,,,,,4,Ireland
+3853,A Balbirnie,15.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,bowling,Andrew Balbirnie,32,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,4,Ireland
+3854,M Commins,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Murray Commins,26,Left-handed,Other,Batters,Other,Other,,,,,,,4,Ireland
+3855,ST Doheny,9.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,bowling,,,,,,,,,,,,,,4,Ireland
+3942,PR Stirling,17.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,bowling,Paul Stirling,33,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,4,Ireland
+3943,LJ Tucker,17.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,20.0,2.0,bowling,,,,,,,,,,,,,,4,Ireland
+4030,JTS Sumerauer,5.0,5.0,49.0,5.0,245.0,11.0,4/51,22.27,5.0,26.7,0.0,0.0,1.0,0.0,bowling,Julius Sumerauer,22,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,1,Jersey
+4031,CW Perchard,5.0,5.0,45.0,3.0,208.0,9.0,3/38,23.11,4.62,30.0,0.0,0.0,0.0,0.0,bowling,Charles Perchard,31,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,1,Jersey
+4032,B Ward,5.0,5.0,40.1,2.0,221.0,6.0,4/39,36.83,5.5,40.1,0.0,0.0,3.0,0.0,bowling,Benjamin Ward,24,Right-handed,Right arm leg break,All-Rounders,Right,Leg break,,,,,,,1,Jersey
+4033,EJB Miles,4.0,4.0,29.0,1.0,165.0,4.0,2/32,41.25,5.68,43.5,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,1,Jersey
+4120,D Birrell,1.0,1.0,10.0,0.0,54.0,1.0,1/54,54.0,5.4,60.0,0.0,0.0,0.0,0.0,bowling,Daniel Birrell,23,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,1,Jersey
+4121,AW Hawkins-Kay,1.0,1.0,9.0,0.0,58.0,1.0,1/58,58.0,6.44,54.0,0.0,0.0,0.0,0.0,bowling,Anthony Hawkins-Kay,33,Right-handed,Right arm medium,All-Rounders,Right,Medium,,,,,,,1,Jersey
+4122,HL Carlyon,5.0,4.0,30.0,2.0,141.0,2.0,2/38,70.5,4.7,90.0,0.0,0.0,0.0,0.0,bowling,Harrison Carlyon,22,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,1,Jersey
+4123,DG Blampied,3.0,3.0,13.0,1.0,77.0,0.0,0,0.0,5.92,0.0,0.0,0.0,0.0,0.0,bowling,Dominic Blampied,27,Right-handed,Right arm leg break,All-Rounders,Right,Leg break,,,,,,,1,Jersey
+4124,AM Tribe,5.0,3.0,4.0,0.0,30.0,0.0,0,0.0,7.5,0.0,0.0,0.0,2.0,0.0,bowling,Asa Tribe,19,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,1,Jersey
+4125,BDH Stevens,1.0,1.0,3.0,0.0,28.0,0.0,0,0.0,9.33,0.0,0.0,0.0,0.0,0.0,bowling,Ben Stevens,31,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,1,Jersey
+4126,JSE Dunford,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Jake Dunford,29,Right-handed,,Wicket Keeper,,,,,,,,,1,Jersey
+4127,NA Greenwood,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,Nick Greenwood,24,Right-handed,,Batters,,,,,,,,,1,Jersey
+4128,JW Jenner,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,,,,,,,,,,,,,,1,Jersey
+4215,JAD Lawrenson,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Josh Lawrenson,21,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,1,Jersey
+4216,R Trumpelmann,11.0,11.0,99.0,6.0,442.0,24.0,5/30,18.41,4.46,24.7,1.0,0.0,3.0,0.0,bowling,Ruben Trumpelmann,25,Right-handed,Left arm fast medium,Pace Bowler,Left,Fast medium,,,,,,,4,Namibia
+4217,T Lungameni,6.0,6.0,50.0,6.0,204.0,10.0,4/20,20.4,4.08,30.0,0.0,0.0,3.0,0.0,bowling,Tangeni Lungameni,31,Left-handed,Left arm medium,Pace Bowler,Left,Medium,,,,,,,4,Namibia
+4218,S Fouche,7.0,5.0,26.0,1.0,130.0,6.0,3/46,21.66,5.0,26.0,0.0,0.0,3.0,0.0,bowling,K. S. Bharat,30,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,4,Namibia
+4219,JN Loftie-Eaton,11.0,3.0,8.4,1.0,65.0,3.0,3/54,21.66,7.5,17.3,0.0,0.0,1.0,0.0,bowling,Jan Nicol Loftie-Eaton,22,Left-handed,Right arm leg break,All-Rounders,Right,Leg break,,,,,,,4,Namibia
+4220,MG Erasmus,11.0,7.0,37.5,1.0,190.0,8.0,2/23,23.75,5.02,28.3,0.0,0.0,7.0,0.0,bowling,Gerhard Erasmus,28,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,4,Namibia
+4221,BM Scholtz,11.0,11.0,99.0,11.0,366.0,12.0,3/67,30.5,3.69,49.5,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,4,Namibia
+4308,B Shikongo,10.0,10.0,67.0,4.0,420.0,13.0,3/42,32.3,6.26,30.9,0.0,0.0,1.0,0.0,bowling,Ben Shikongo,23,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,4,Namibia
+4309,HN Ya France,11.0,10.0,65.1,3.0,312.0,6.0,2/27,52.0,4.78,65.1,0.0,0.0,4.0,0.0,bowling,Pikky Ya France,33,Right-handed,Right arm off break,Spin Bowler,Right,Off break,,,,,,,4,Namibia
+4310,K Birkenstock,8.0,7.0,33.0,0.0,214.0,2.0,1/34,107.0,6.48,99.0,0.0,0.0,3.0,0.0,bowling,Karl Birkenstock,27,Left-handed,Right arm medium fast,All-Rounders,Right,Fast medium,,,,,,,4,Namibia
+4311,M van Lingen,10.0,2.0,2.0,0.0,20.0,0.0,0,0.0,10.0,0.0,0.0,0.0,5.0,0.0,bowling,Michael van Lingen,26,Left-handed,Left arm medium,Batters,Left,Medium,,,,,,,4,Namibia
+4312,N Davin,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,Niko Davin,25,Right-handed,Right arm leg break,Batters,Right,Leg break,,,,,,,4,Namibia
+4313,MD du Preez,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Michau du Preez,27,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,4,Namibia
+4314,JN Frylinck,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,4,Namibia
+4401,ZE Green,11.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,14.0,1.0,bowling,Zane Green,27,Left-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,4,Namibia
+4402,L Louwrens,6.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Lo-handre Louwrens,24,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,4,Namibia
+4403,LN Rajbanshi,12.0,12.0,95.0,7.0,347.0,18.0,5/20,19.27,3.65,31.6,1.0,0.0,5.0,0.0,bowling,Lalit Rajbanshi,,Right-handed,Slow left arm orthodox,Spin Bowler,Left,Slow left arm,,,,,,,15,Nepal
+4404,S Lamichhane,21.0,21.0,195.2,9.0,948.0,43.0,5/25,22.04,4.85,27.2,1.0,0.0,1.0,0.0,bowling,Sandeep Lamichhane,,Right-handed,Right arm Leg break,Spin Bowler,Right,Leg break,,,,,,,15,Nepal
+4405,K Mahato,1.0,1.0,10.0,0.0,55.0,2.0,2/55,27.5,5.5,30.0,0.0,0.0,0.0,0.0,bowling,K. S. Bharat,30,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,15,Nepal
+4406,Karan KC,20.0,20.0,149.4,14.0,853.0,31.0,5/61,27.51,5.69,28.9,1.0,0.0,4.0,0.0,bowling,Karan KC,,Right-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,15,Nepal
+4407,DS Airee,21.0,21.0,139.1,9.0,567.0,17.0,3/18,33.35,4.07,49.1,0.0,0.0,15.0,0.0,bowling,Dipendra Singh Airee,,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,15,Nepal
+4408,K Bhurtel,21.0,3.0,8.0,0.0,36.0,1.0,1/22,36.0,4.5,48.0,0.0,0.0,12.0,0.0,bowling,Kushal Bhurtel,,Right-handed,Right arm medium,Batters,Right,Medium,,,,,,,15,Nepal
+4409,Gulsan Jha,15.0,15.0,79.3,0.0,491.0,13.0,3/28,37.76,6.17,36.6,0.0,0.0,5.0,0.0,bowling,Gulsan Jha,,Left-handed,Right arm medium,All-Rounders,Right,Medium,,,,,,,15,Nepal
+4410,Kushal Malla,21.0,17.0,83.0,3.0,431.0,11.0,2/6,39.18,5.19,45.2,0.0,0.0,4.0,0.0,bowling,Kushal Malla,,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,15,Nepal
+4411,Sompal Kami,17.0,17.0,121.3,17.0,648.0,15.0,3/26,43.2,5.33,48.6,0.0,0.0,3.0,0.0,bowling,Sompal Kami,,Right-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,15,Nepal
+4412,Pratis GC,3.0,3.0,21.0,0.0,90.0,2.0,1/37,45.0,4.28,63.0,0.0,0.0,1.0,0.0,bowling,Pratis GC,,Right-handed,Left arm medium,Pace Bowler,Left,Medium,,,,,,,15,Nepal
+4413,Aarif Sheikh,16.0,10.0,38.3,0.0,210.0,2.0,1/30,105.0,5.45,115.5,0.0,0.0,10.0,0.0,bowling,Aarif Sheikh,,Right-handed,Right arm medium,Batters,Right,Medium,,,,,,,15,Nepal
+4414,RK Paudel,22.0,4.0,18.1,0.0,70.0,0.0,0,0.0,3.85,0.0,0.0,0.0,5.0,0.0,bowling,,,,,,,,,,,,,,15,Nepal
+4501,Aasif Sheikh,20.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,10.0,1.0,bowling,Aasif Sheikh,,Right-handed,Right arm off break,Wicket Keeper,Right,Off break,,,,,,,15,Nepal
+4502,S Jora,4.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,K. S. Bharat,30,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,15,Nepal
+4503,G Malla,11.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,bowling,Kushal Malla,,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,15,Nepal
+4504,A Saud,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,bowling,Arjun Saud,,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,15,Nepal
+4505,B Sharki,15.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,bowling,Bhim Sharki,,Right-handed,Right arm offbreak,Batters,Right,Off break,,,,,,,15,Nepal
+4506,BFW de Leede,16.0,15.0,125.4,1.0,819.0,31.0,5/52,26.41,6.51,24.3,1.0,0.0,8.0,0.0,bowling,Dhananjaya de Silva,32,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,7,Netherlands
+4507,Vikramjit Singh,19.0,12.0,36.0,1.0,221.0,7.0,2/12,31.57,6.13,30.8,0.0,0.0,5.0,0.0,bowling,Vikramjit Singh,20,Left-handed,Right arm medium fast,Batters,Right,Fast medium,,,,,,,7,Netherlands
+4508,Shariz Ahmad,10.0,9.0,52.4,2.0,348.0,11.0,5/43,31.63,6.6,28.7,1.0,0.0,3.0,0.0,bowling,Shariz Ahmad,20,Left-handed,Right arm leg break,Spin Bowler,Right,Leg break,,,,,,,7,Netherlands
+4509,FJ Klaassen,5.0,5.0,45.3,1.0,239.0,7.0,3/41,34.14,5.25,39.0,0.0,0.0,1.0,0.0,bowling,Fred Klaassen,31,Right-handed,Left arm medium fast,Pace Bowler,Left,Fast medium,,,,,,,7,Netherlands
+4510,R Klein,9.0,9.0,73.2,5.0,349.0,10.0,2/31,34.9,4.75,44.0,0.0,0.0,2.0,0.0,bowling,Ryan Klein,26,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,7,Netherlands
+4511,LV van Beek,16.0,16.0,143.1,7.0,838.0,24.0,4/24,34.91,5.85,35.7,0.0,0.0,7.0,0.0,bowling,Michael van Lingen,26,Left-handed,Left arm medium,Batters,Left,Medium,,,,,,,7,Netherlands
+4512,Saqib Zulfiqar,8.0,8.0,39.0,1.0,249.0,7.0,2/43,35.57,6.38,33.4,0.0,0.0,4.0,0.0,bowling,Saqib Zulfiqar,26,Right-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,7,Netherlands
+4513,PA van Meekeren,14.0,14.0,115.2,3.0,710.0,18.0,4/23,39.44,6.15,38.4,0.0,0.0,5.0,0.0,bowling,Paul van Meekeren,30,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,7,Netherlands
+4514,A Dutt,20.0,20.0,171.2,11.0,905.0,19.0,3/31,47.63,5.28,54.1,0.0,0.0,7.0,0.0,bowling,Aryan Dutt,20,Right-handed,Right arm off break,Spin Bowler,Right,Off break,,,,,,,7,Netherlands
+4515,VJ Kingma,2.0,2.0,20.0,0.0,146.0,3.0,2/80,48.66,7.3,40.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,7,Netherlands
+4602,RE van der Merwe,8.0,8.0,56.0,0.0,311.0,6.0,2/34,51.83,5.55,56.0,0.0,0.0,2.0,0.0,bowling,Roelof van der Merwe,38,Right-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,7,Netherlands
+4603,CN Ackermann,12.0,12.0,72.2,3.0,370.0,7.0,2/39,52.85,5.11,62.0,0.0,0.0,7.0,0.0,bowling,Colin Ackermann,32,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,7,Netherlands
+4604,BD Glover,1.0,1.0,7.0,0.0,62.0,1.0,1/62,62.0,8.85,42.0,0.0,0.0,0.0,0.0,bowling,Brandon Glover,26,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,7,Netherlands
+4605,C Floyd,7.0,7.0,48.0,1.0,247.0,2.0,1/31,123.5,5.14,144.0,0.0,0.0,2.0,0.0,bowling,Clayton Floyd,27,Right-handed,Slow left arm orthodox,Spin Bowler,Left,Slow left arm,,,,,,,7,Netherlands
+4606,TLW Cooper,3.0,1.0,2.0,0.0,12.0,0.0,0,0.0,6.0,0.0,0.0,0.0,2.0,0.0,bowling,Tom Cooper,36,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,7,Netherlands
+4607,W Barresi,15.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,Wesley Barresi,39,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,7,Netherlands
+4608,NRJ Croes,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,,,,,,,,,,,,,,7,Netherlands
+4695,SA Edwards,22.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,30.0,5.0,bowling,,,,,,,,,,,,,,7,Netherlands
+4782,SA Engelbrecht,8.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,bowling,Sybrand Engelbrecht,35,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,7,Netherlands
+4783,Musa Ahmed,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Musa Ahmed,25,Left-handed,Right arm leg break,Batters,Right,Leg break,,,,,,,7,Netherlands
+4784,AT Nidamanuru,19.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,bowling,Teja Nidamanuru,29,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,7,Netherlands
+4785,MP O'Dowd,22.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Max O'Dowd,29,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,7,Netherlands
+4786,AF Milne,4.0,4.0,33.3,1.0,184.0,9.0,4/34,20.44,5.49,22.3,0.0,0.0,1.0,0.0,bowling,,,,,,,,,,,,,,13,NewZealand
+4873,DJ Mitchell,26.0,9.0,32.3,1.0,204.0,9.0,3/32,22.66,6.27,21.6,0.0,0.0,22.0,0.0,bowling,Mitchell Starc,33,Left-handed,Left arm fast,Pace Bowler,Left,Fast,,,,,,,13,NewZealand
+4874,HB Shipley,8.0,8.0,64.3,4.0,359.0,15.0,5/31,23.93,5.56,25.8,1.0,0.0,2.0,0.0,bowling,,,,,,,,,,,,,,13,NewZealand
+4961,TA Boult,15.0,14.0,121.1,7.0,662.0,24.0,5/51,27.58,5.46,30.2,1.0,0.0,6.0,0.0,bowling,,,,,,,,,,,,,,13,NewZealand
+5048,MJ Henry,17.0,17.0,144.5,12.0,767.0,25.0,3/14,30.68,5.29,34.7,0.0,0.0,9.0,0.0,bowling,Henry Nicholls,32,Left-handed,Other,Batters,Other,Other,,,,,,,13,NewZealand
+5049,TG Southee,10.0,10.0,78.1,1.0,565.0,17.0,3/56,33.23,7.22,27.5,0.0,0.0,1.0,0.0,bowling,Tim Southee,34,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,13,NewZealand
+5050,JA Duffy,1.0,1.0,10.0,0.0,100.0,3.0,3/100,33.33,10.0,20.0,0.0,0.0,0.0,0.0,bowling,Jacob Duffy,29,Right-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,13,NewZealand
+5051,CE McConchie,6.0,5.0,28.0,1.0,135.0,4.0,2/18,33.75,4.82,42.0,0.0,0.0,3.0,0.0,bowling,Cole McConchie,31,Right-handed,Right arm off spin,All-Rounders,Right,Off spin,,,,,,,13,NewZealand
+5052,MJ Santner,17.0,17.0,153.5,4.0,770.0,20.0,5/59,38.5,5.0,46.1,1.0,0.0,8.0,0.0,bowling,Mitchell Santner,31,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,13,NewZealand
+5053,BG Lister,3.0,3.0,26.0,0.0,158.0,4.0,3/69,39.5,6.07,39.0,0.0,0.0,0.0,0.0,bowling,Ben Lister,27,Right-handed,Left arm medium,Pace Bowler,Left,Medium,,,,,,,13,NewZealand
+5054,IS Sodhi,13.0,11.0,96.0,2.0,550.0,13.0,6/39,42.3,5.72,44.3,1.0,0.0,1.0,0.0,bowling,Ish Sodhi,31,Right-handed,Right arm leg spin,Spin Bowler,Right,Leg spin,,,,,,,13,NewZealand
+5055,GD Phillips,21.0,16.0,65.0,1.0,388.0,9.0,3/37,43.11,5.96,43.3,0.0,0.0,10.0,0.0,bowling,Glenn Phillips,26,Right-handed,Right arm off spin,Batters,Right,Off spin,,,,,,,13,NewZealand
+5056,LH Ferguson,18.0,17.0,134.1,5.0,781.0,18.0,3/19,43.38,5.82,44.7,0.0,0.0,2.0,0.0,bowling,Lockie Ferguson,32,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,13,NewZealand
+5057,MG Bracewell,6.0,6.0,44.0,0.0,224.0,5.0,2/44,44.8,5.09,52.8,0.0,0.0,1.0,0.0,bowling,Michael Bracewell,32,Left-handed,Right arm off spin,All-Rounders,Right,Off spin,,,,,,,13,NewZealand
+5058,R Ravindra,22.0,18.0,132.1,1.0,800.0,17.0,4/60,47.05,6.05,46.6,0.0,0.0,6.0,0.0,bowling,Ravindra Jadeja,34,Left-handed,Left arm orthodox spin,All-Rounders,Left,Orthodox spin,,,,,,,13,NewZealand
+5059,BM Tickner,7.0,7.0,52.5,2.0,345.0,7.0,3/76,49.28,6.52,45.2,0.0,0.0,1.0,0.0,bowling,,,,,,,,,,,,,,13,NewZealand
+5146,KA Jamieson,5.0,4.0,32.0,3.0,215.0,3.0,2/32,71.66,6.71,64.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,13,NewZealand
+5233,JDS Neesham,5.0,5.0,25.3,0.0,236.0,2.0,1/32,118.0,9.25,76.5,0.0,0.0,1.0,0.0,bowling,James Neesham,33,Left-handed,Right arm medium fast,All-Rounders,Right,Fast medium,,,,,,,13,NewZealand
+5234,FH Allen,11.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,,,,,,,,,,,,,,13,NewZealand
+5321,TA Blundell,7.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,bowling,Tom Blundell,33,Right-handed,Right arm off spin,Wicket Keeper,Right,Off spin,,,,,,,13,NewZealand
+5322,CJ Bowes,6.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,,,,,,,,,,,,,,13,NewZealand
+5409,MS Chapman,13.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Mark Chapman,29,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,13,NewZealand
+5410,DP Conway,20.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,bowling,,,,,,,,,,,,,,13,NewZealand
+5497,D Foxcroft,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,Dean Foxcroft,25,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,13,NewZealand
+5498,TWM Latham,27.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,25.0,4.0,bowling,,,,,,,,,,,,,,13,NewZealand
+5585,HM Nicholls,14.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,Henry Nicholls,32,Left-handed,Other,Batters,Other,Other,,,,,,,13,NewZealand
+5586,KS Williamson,7.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,bowling,Kane Williamson,33,Right-handed,Right arm off spin,Batters,Right,Off spin,,,,,,,13,NewZealand
+5587,WA Young,20.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,bowling,,,,,,,,,,,,,,13,NewZealand
+5674,Jatinder Singh,9.0,2.0,5.0,0.0,26.0,1.0,1/11,26.0,5.2,30.0,0.0,0.0,0.0,0.0,bowling,Jatinder Singh,34,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,2,Oman
+5675,Bilal Khan,9.0,9.0,82.2,6.0,509.0,19.0,5/55,26.78,6.18,26.0,1.0,0.0,0.0,0.0,bowling,Bilal Khan,35,Left-handed,Left arm medium fast,Pace Bowler,Left,Fast medium,,,,,,,2,Oman
+5676,Jay Odedra,6.0,6.0,35.0,0.0,157.0,5.0,3/31,31.4,4.48,42.0,0.0,0.0,1.0,0.0,bowling,Jay Odedra,34,Right-handed,Right arm off break,Spin Bowler,Right,Off break,,,,,,,2,Oman
+5677,Fayyaz Butt,7.0,7.0,57.0,3.0,409.0,12.0,4/79,34.08,7.17,28.5,0.0,0.0,1.0,0.0,bowling,Fayyaz Butt,30,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,2,Oman
+5678,Zeeshan Maqsood,7.0,7.0,61.0,1.0,317.0,7.0,4/32,45.28,5.19,52.2,0.0,0.0,3.0,0.0,bowling,Zeeshan Maqsood,36,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,2,Oman
+5679,Ayaan Khan,9.0,9.0,58.0,1.0,349.0,7.0,2/46,49.85,6.01,49.7,0.0,0.0,3.0,0.0,bowling,Ayaan Khan,31,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,2,Oman
+5680,Kaleemullah,5.0,5.0,46.0,4.0,232.0,3.0,1/28,77.33,5.04,92.0,0.0,0.0,3.0,0.0,bowling,Kaleemullah,32,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,2,Oman
+5681,Mohammad Nadeem,9.0,6.0,29.4,0.0,174.0,2.0,2/36,87.0,5.86,89.0,0.0,0.0,0.0,0.0,bowling,Mohammad Nadeem,41,Right-handed,Right arm medium,All-Rounders,Right,Medium,,,,,,,2,Oman
+5682,Aqib Ilyas,8.0,6.0,28.0,0.0,178.0,1.0,1/52,178.0,6.35,168.0,0.0,0.0,0.0,0.0,bowling,Aqib Ilyas,31,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,2,Oman
+5683,Naseem Khushi,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,bowling,Naseem Khushi,41,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,2,Oman
+5684,KH Prajapati,9.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,bowling,Kashyap Prajapati,28,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,2,Oman
+5685,Sandeep Goud,4.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Sandeep Goud,32,Right-handed,Right arm medium,Batters,Right,Medium,,,,,,,2,Oman
+5686,AA Shafique,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,bowling,Abdullah Shafique,24,Right-handed,Other,Batters,Other,Other,,,,,,,14,Pakistan
+5687,Shoaib Khan,8.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Shoaib Khan,30,Right-handed,Right arm medium,Batters,Right,Medium,,,,,,,2,Oman
+5688,Suraj Kumar,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Suraj Kumar,34,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,2,Oman
+5689,Naseem Shah,11.0,11.0,89.5,3.0,432.0,22.0,5/57,19.63,4.8,24.5,1.0,0.0,1.0,0.0,bowling,Naseem Shah,20,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,14,Pakistan
+5690,Shaheen Shah Afridi,21.0,21.0,180.4,9.0,1010.0,42.0,5/54,24.04,5.59,25.8,1.0,0.0,5.0,0.0,bowling,Shaheen Afridi,23,Left-handed,Left arm fast,Pace Bowler,Left,Fast,,,,,,,14,Pakistan
+5691,Mohammad Wasim,12.0,12.0,93.4,5.0,513.0,19.0,3/31,27.0,5.47,29.5,0.0,0.0,3.0,0.0,bowling,Mohammad Wasim,22,Right-handed,Right arm fast medium,All-Rounders,Right,Fast medium,,,,,,,14,Pakistan
+5692,Haris Rauf,22.0,22.0,178.5,5.0,1086.0,40.0,5/18,27.15,6.07,26.8,1.0,0.0,5.0,0.0,bowling,Haris Rauf,30,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,14,Pakistan
+5693,Hasan Ali,6.0,6.0,51.0,2.0,321.0,9.0,4/71,35.66,6.29,34.0,0.0,0.0,0.0,0.0,bowling,Hasan Ali,29,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,14,Pakistan
+5694,Usama Mir,12.0,12.0,106.0,0.0,634.0,15.0,4/43,42.26,5.98,42.4,0.0,0.0,7.0,0.0,bowling,Usama Mir,27,Right-handed,Right arm leg spin,Spin Bowler,Right,Leg spin,,,,,,,14,Pakistan
+5695,Faheem Ashraf,3.0,3.0,25.0,1.0,144.0,3.0,2/43,48.0,5.76,50.0,0.0,0.0,2.0,0.0,bowling,Faheem Ashraf,29,Left-handed,Right arm medium,All-Rounders,Right,Medium,,,,,,,14,Pakistan
+5696,Shadab Khan,17.0,16.0,129.4,3.0,745.0,15.0,4/27,49.66,5.74,51.8,0.0,0.0,6.0,0.0,bowling,Shadab Khan,25,Right-handed,Right arm leg spin,All-Rounders,Right,Leg spin,,,,,,,14,Pakistan
+5697,Iftikhar Ahmed,18.0,13.0,72.4,0.0,429.0,8.0,3/50,53.62,5.9,54.5,0.0,0.0,9.0,0.0,bowling,Iftikhar Ahmed,33,Right-handed,Right arm off spin,Batters,Right,Off spin,,,,,,,14,Pakistan
+5698,Mohammad Nawaz,15.0,15.0,114.0,0.0,612.0,11.0,4/38,55.63,5.36,62.1,0.0,0.0,6.0,0.0,bowling,Mohammad Nawaz,29,Left-handed,Left arm orthodox,All-Rounders,Left,Orthodox,,,,,,,14,Pakistan
+5699,Agha Salman,18.0,13.0,63.0,0.0,369.0,4.0,2/42,92.25,5.85,94.5,0.0,0.0,12.0,0.0,bowling,Agha Salman,33,Right-handed,Right arm off spin,All-Rounders,Right,Off spin,,,,,,,14,Pakistan
+5700,Zaman Khan,1.0,1.0,6.0,1.0,39.0,0.0,0,0.0,6.5,0.0,0.0,0.0,0.0,0.0,bowling,Zaman Khan,22,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,14,Pakistan
+5701,Mohammad Hasnain,1.0,1.0,6.1,0.0,42.0,0.0,0,0.0,6.81,0.0,0.0,0.0,0.0,0.0,bowling,Mohammad Nabi,38,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,14,Pakistan
+5702,Ihsanullah,1.0,1.0,8.0,0.0,60.0,0.0,0,0.0,7.5,0.0,0.0,0.0,0.0,0.0,bowling,Ihsanullah,21,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,14,Pakistan
+5703,Abdullah Shafique,11.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,bowling,Abdullah Shafique,24,Right-handed,Other,Batters,Other,Other,,,,,,,14,Pakistan
+5704,Babar Azam,25.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,bowling,Babar Azam,29,Right-handed,Right arm off spin,Batters,Right,Off spin,,,,,,,14,Pakistan
+5705,Fakhar Zaman,20.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,bowling,Fakhar Zaman,33,Left-handed,Left arm orthodox,Batters,Left,Orthodox,,,,,,,14,Pakistan
+5706,Haris Sohail,3.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,14,Pakistan
+5793,Imam-ul-Haq,18.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,bowling,Imam-ul-Haq,27,Left-handed,Right arm leg spin,Batters,Right,Leg spin,,,,,,,14,Pakistan
+5794,Kamran Ghulam,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,14,Pakistan
+5881,Mohammad Haris,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Mohammad Haris,22,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,14,Pakistan
+5882,Mohammad Rizwan,25.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,33.0,2.0,bowling,Mohammad Rizwan,31,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,14,Pakistan
+5883,Saud Shakeel,10.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,bowling,Saud Shakeel,28,Left-handed,Left arm orthodox,Batters,Left,Orthodox,,,,,,,14,Pakistan
+5884,Shan Masood,4.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Shan Masood,34,Left-handed,Right arm medium fast,Batters,Right,Fast medium,,,,,,,14,Pakistan
+5885,SI Kamea,12.0,11.0,94.1,5.0,453.0,23.0,5/38,19.69,4.81,24.5,2.0,0.0,2.0,0.0,bowling,,,,,,,,,,,,,,0,Papua_New_Guinea
+5972,R Hekure,13.0,13.0,80.0,4.0,386.0,17.0,5/13,22.7,4.82,28.2,1.0,0.0,5.0,0.0,bowling,Riley Hekure,28,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,0,Papua_New_Guinea
+5973,J Kariko,3.0,3.0,21.0,0.0,114.0,5.0,4/45,22.8,5.42,25.2,0.0,0.0,0.0,0.0,bowling,John Kariko,19,Left-handed,Slow left arm orthodox,Spin Bowler,Left,Slow left arm,,,,,,,0,Papua_New_Guinea
+5974,A Vala,13.0,12.0,83.0,5.0,349.0,12.0,3/21,29.08,4.2,41.5,0.0,0.0,8.0,0.0,bowling,Assad Vala,36,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,0,Papua_New_Guinea
+5975,CA Soper,13.0,13.0,94.2,8.0,454.0,15.0,5/25,30.26,4.81,37.7,1.0,0.0,2.0,0.0,bowling,Chad Soper,32,Right-handed,Right arm medium,All-Rounders,Right,Medium,,,,,,,0,Papua_New_Guinea
+5976,KV Morea,6.0,6.0,35.0,2.0,223.0,5.0,2/26,44.6,6.37,42.0,0.0,0.0,2.0,0.0,bowling,,,,,,,,,,,,,,0,Papua_New_Guinea
+6063,S Bau,13.0,5.0,34.2,0.0,199.0,3.0,2/38,66.33,5.79,68.6,0.0,0.0,5.0,0.0,bowling,K. S. Bharat,30,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,0,Papua_New_Guinea
+6064,N Vanua,11.0,10.0,61.0,3.0,316.0,4.0,1/14,79.0,5.18,91.5,0.0,0.0,2.0,0.0,bowling,Norman Vanua,29,Right-handed,Right arm medium,All-Rounders,Right,Medium,,,,,,,0,Papua_New_Guinea
+6065,A Nao,3.0,3.0,20.0,0.0,122.0,1.0,1/75,122.0,6.1,120.0,0.0,0.0,1.0,0.0,bowling,Alei Nao,29,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,0,Papua_New_Guinea
+6066,CJA Amini,11.0,7.0,19.0,0.0,152.0,1.0,1/15,152.0,8.0,114.0,0.0,0.0,5.0,0.0,bowling,,,,,,,,,,,,,,0,Papua_New_Guinea
+6153,K Doriga,13.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,bowling,K. S. Bharat,30,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,0,Papua_New_Guinea
+6154,H Hiri,10.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Hiri Hiri,28,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,0,Papua_New_Guinea
+6155,G Toka,6.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Gaudi Toka,29,Left-handed,Right arm medium,Batters,Right,Medium,,,,,,,0,Papua_New_Guinea
+6156,TP Ura,10.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,bowling,,34,,,,,,,,,,,,0,Papua_New_Guinea
+6243,HGV Vare,6.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,bowling,,22,,,,,,,,,,,,0,Papua_New_Guinea
+6330,MRJ Watt,11.0,11.0,100.4,7.0,441.0,23.0,4/41,19.17,4.38,26.2,0.0,0.0,4.0,0.0,bowling,Mark Watt,27,Left-handed,Slow left arm orthodox,Spin Bowler,Left,Slow left arm,,,,,,,7,Scotland
+6331,CN Greaves,11.0,11.0,62.2,1.0,354.0,17.0,5/53,20.82,5.67,22.0,1.0,0.0,2.0,0.0,bowling,,,,,,,,,,,,,,7,Scotland
+6418,MA Leask,11.0,10.0,64.2,2.0,310.0,14.0,4/24,22.14,4.81,27.5,0.0,0.0,6.0,0.0,bowling,Michael Leask,33,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,7,Scotland
+6419,B McMullen,11.0,11.0,81.0,1.0,366.0,16.0,5/34,22.87,4.51,30.3,1.0,0.0,8.0,0.0,bowling,Brandon McMullen,24,Right-handed,Right arm medium,All-Rounders,Right,Medium,,,,,,,7,Scotland
+6420,CB Sole,8.0,8.0,68.5,5.0,347.0,14.0,3/33,24.78,5.04,29.5,0.0,0.0,4.0,0.0,bowling,,,,,,,,,,,,,,7,Scotland
+6507,SM Sharif,9.0,9.0,65.5,4.0,320.0,10.0,4/20,32.0,4.86,39.5,0.0,0.0,2.0,0.0,bowling,Safyaan Sharif,32,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,7,Scotland
+6508,AC Evans,1.0,1.0,7.0,0.0,35.0,1.0,1/35,35.0,5.0,42.0,0.0,0.0,0.0,0.0,bowling,Alasdair Evans,34,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,7,Scotland
+6509,A Neill,1.0,1.0,7.0,1.0,46.0,1.0,1/46,46.0,6.57,42.0,0.0,0.0,0.0,0.0,bowling,Adrian Neill,29,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,7,Scotland
+6510,CM McBride,11.0,3.0,10.0,0.0,54.0,1.0,1/24,54.0,5.4,60.0,0.0,0.0,4.0,0.0,bowling,Christopher McBride,24,Right-handed,Right arm medium,Batters,Right,Medium,,,,,,,7,Scotland
+6511,Hamza Tahir,2.0,2.0,4.0,0.0,26.0,0.0,0,0.0,6.5,0.0,0.0,0.0,1.0,0.0,bowling,Hamza Tahir,28,Right-handed,Slow left arm orthodox,Spin Bowler,Left,Slow left arm,,,,,,,7,Scotland
+6512,J Jarvis,3.0,3.0,10.0,0.0,71.0,0.0,0,0.0,7.1,0.0,0.0,0.0,2.0,0.0,bowling,Jack Jarvis,20,Right-handed,Right arm medium,All-Rounders,Right,Medium,,,,,,,7,Scotland
+6513,RD Berrington,11.0,1.0,1.0,0.0,9.0,0.0,0,0.0,9.0,0.0,0.0,0.0,4.0,0.0,bowling,Richie Berrington (Captain),36,Right-handed,Right arm medium fast,Batters,Right,Fast medium,,,,,,,7,Scotland
+6514,KJ Coetzer,3.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,,39,,,,,,,,,,,,7,Scotland
+6601,MH Cross,11.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,bowling,Matthew Cross (Vice-captain),31,Right-handed,"ODI, T20I",Wicket Keeper,N/A,Other,,,,,,,7,Scotland
+6602,TSS Mackintosh,10.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Tom Mackintosh,20,Right-handed,"ODI, T20I",Wicket Keeper,N/A,Other,,,,,,,7,Scotland
+6603,HG Munsey,6.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,bowling,,30,,,,,,,,,,,,7,Scotland
+6690,LR Naylor,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,,22,,,,,,,,,,,,7,Scotland
+6777,SSB Magala,5.0,5.0,39.0,4.0,248.0,13.0,5/43,19.07,6.35,18.0,1.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,15,SouthAfrica
+6864,KA Maharaj,15.0,15.0,130.1,6.0,556.0,24.0,4/33,23.16,4.27,32.5,0.0,0.0,5.0,0.0,bowling,Keshav Maharaj,33,Right-handed,Left arm orthodox,Spin Bowler,Left,Orthodox,,,,,,,15,SouthAfrica
+6865,G Coetzee,14.0,14.0,111.0,1.0,720.0,31.0,4/44,23.22,6.48,21.4,0.0,0.0,4.0,0.0,bowling,Gerald Coetzee,23,Right-handed,Right arm fast,Seam Bowler,Right,Fast,,,,,,,15,SouthAfrica
+6866,T Shamsi,11.0,11.0,92.2,1.0,543.0,22.0,4/60,24.68,5.88,25.1,0.0,0.0,1.0,0.0,bowling,Tabraiz Shamsi,33,Right-handed,Left arm unorthodox,Spin Bowler,Left,Spin,,,,,,,15,SouthAfrica
+6867,BC Fortuin,2.0,2.0,18.0,0.0,103.0,4.0,2/46,25.75,5.72,27.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,15,SouthAfrica
+6954,K Rabada,14.0,14.0,116.4,10.0,611.0,22.0,3/33,27.77,5.23,31.8,0.0,0.0,8.0,0.0,bowling,K. S. Bharat,30,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,15,SouthAfrica
+6955,LB Williams,1.0,1.0,8.4,1.0,56.0,2.0,2/56,28.0,6.46,26.0,0.0,0.0,0.0,0.0,bowling,Lizaad Williams,30,Left-handed,Right arm medium fast,Seam Bowler,Right,Fast medium,,,,,,,15,SouthAfrica
+6956,A Nortje,5.0,5.0,37.0,1.0,234.0,8.0,4/62,29.25,6.32,27.7,0.0,0.0,0.0,0.0,bowling,Anrich Nortje,30,Right-handed,Right arm fast,Seam Bowler,Right,Fast,,,,,,,15,SouthAfrica
+6957,M Jansen,20.0,20.0,155.1,7.0,989.0,33.0,5/39,29.96,6.37,28.2,1.0,0.0,6.0,0.0,bowling,Marco Jansen,23,Right-handed,Left arm medium fast,All-Rounders,Left,Fast medium,,,,,,,15,SouthAfrica
+6958,L Ngidi,16.0,16.0,124.3,7.0,753.0,22.0,4/51,34.22,6.04,33.9,0.0,0.0,6.0,0.0,bowling,K. L. Rahul,31,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,15,SouthAfrica
+6959,AL Phehlukwayo,3.0,3.0,20.0,0.0,130.0,3.0,1/36,43.33,6.5,40.0,0.0,0.0,1.0,0.0,bowling,Andile Phehlukwayo,27,Left-handed,Right arm medium fast,All-Rounders,Right,Fast medium,,,,,,,15,SouthAfrica
+6960,AK Markram,21.0,13.0,63.5,1.0,384.0,6.0,2/40,64.0,6.01,63.8,0.0,0.0,8.0,0.0,bowling,,,,,,,,,,,,,,15,SouthAfrica
+7047,WD Parnell,4.0,4.0,32.2,2.0,179.0,2.0,1/30,89.5,5.53,97.0,0.0,0.0,1.0,0.0,bowling,,,,,,,,,,,,,,15,SouthAfrica
+7134,T Bavuma,18.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,bowling,Temba Bavuma,33,Right-handed,Right arm medium,Batters,Right,Medium,,,,,,,15,SouthAfrica
+7135,Q de Kock,20.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,32.0,5.0,bowling,Quinton de Kock,30,Left-handed,Other,Wicket Keeper,Other,Other,,,,,,,15,SouthAfrica
+7136,T de Zorzi,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,Tony De Zorzi,26,Left-handed,Other,Batters,Other,Other,,,,,,,15,SouthAfrica
+7137,RR Hendricks,5.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Reeza Hendricks,34,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,15,SouthAfrica
+7138,H Klaasen,21.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,bowling,Heinrich Klaasen,32,Right-handed,Right arm off break,Wicket Keeper,Right,Off break,,,,,,,15,SouthAfrica
+7139,DA Miller,21.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,bowling,David Miller,34,Left-handed,Other,Batters,Other,Other,,,,,,,15,SouthAfrica
+7140,RD Rickelton,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,bowling,Ryan Rickelton,27,Left-handed,Other,Wicket Keeper,Other,Other,,,,,,,15,SouthAfrica
+7141,T Stubbs,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,Tristan Stubbs,23,Right-handed,Right arm off break,Wicket Keeper,Right,Off break,,,,,,,15,SouthAfrica
+7142,HE van der Dussen,21.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,bowling,Rassie van der Dussen,34,Right-handed,Right arm leg break,Batters,Right,Leg break,,,,,,,15,SouthAfrica
+7143,KIC Asalanka,31.0,3.0,10.1,1.0,29.0,4.0,4/18,7.25,2.85,15.2,0.0,0.0,8.0,0.0,bowling,,,,,,,,,,,,,,16,SriLanka
+7230,AD Mathews,8.0,5.0,22.1,2.0,107.0,6.0,2/14,17.83,4.82,22.1,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,16,SriLanka
+7317,SSD Arachchige,2.0,1.0,5.0,0.0,18.0,1.0,1/18,18.0,3.6,30.0,0.0,0.0,0.0,0.0,bowling,Sahan Arachchige,27,Left-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,16,SriLanka
+7318,PWH de Silva,14.0,14.0,112.4,7.0,571.0,28.0,6/24,20.39,5.06,24.1,3.0,0.0,5.0,0.0,bowling,Dhananjaya de Silva,32,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,16,SriLanka
+7319,CBRLS Kumara,13.0,13.0,83.3,4.0,496.0,21.0,3/22,23.61,5.94,23.8,0.0,0.0,3.0,0.0,bowling,,,,,,,,,,,,,,16,SriLanka
+7406,D Madushanka,15.0,15.0,122.2,5.0,746.0,31.0,5/80,24.06,6.09,23.6,1.0,0.0,3.0,0.0,bowling,Dilshan Madushanka,23,Right-handed,Left arm fast medium,Pace Bowler,Left,Fast medium,,,,,,,16,SriLanka
+7407,M Theekshana,23.0,23.0,191.3,6.0,923.0,37.0,4/25,24.94,4.81,31.0,0.0,0.0,3.0,0.0,bowling,Maheesh Theekshana,23,Right-handed,Right arm off break,Spin Bowler,Right,Off break,,,,,,,16,SriLanka
+7408,PVD Chameera,6.0,6.0,47.2,3.0,277.0,8.0,4/63,34.62,5.85,35.5,0.0,0.0,0.0,0.0,bowling,Dushmantha Chameera,31,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,16,SriLanka
+7409,MD Shanaka,24.0,21.0,85.0,3.0,459.0,13.0,3/28,35.3,5.4,39.2,0.0,0.0,9.0,0.0,bowling,,,,,,,,,,,,,,16,SriLanka
+7496,M Pathirana,12.0,12.0,84.4,2.0,616.0,17.0,4/32,36.23,7.27,29.8,0.0,0.0,2.0,0.0,bowling,Matheesha Pathirana,20,Right-handed,Right arm fast,Pace Bowler,Right,Fast,,,,,,,16,SriLanka
+7497,CAK Rajitha,21.0,21.0,159.3,3.0,974.0,26.0,4/50,37.46,6.1,36.8,0.0,0.0,4.0,0.0,bowling,,,,,,,,,,,,,,16,SriLanka
+7584,DN Wellalage,12.0,11.0,81.2,2.0,452.0,12.0,5/40,37.66,5.55,40.6,1.0,0.0,3.0,0.0,bowling,Dunith Wellalage,20,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,16,SriLanka
+7585,C Karunaratne,8.0,7.0,49.5,1.0,305.0,8.0,4/43,38.12,6.12,37.3,0.0,0.0,3.0,0.0,bowling,Dimuth Karunaratne,35,Left-handed,Right arm medium,Batters,Right,Medium,,,,,,,16,SriLanka
+7586,Pramod Madushan,2.0,2.0,9.0,1.0,79.0,2.0,2/58,39.5,8.77,27.0,0.0,0.0,1.0,0.0,bowling,Pramod Madushan,29,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,16,SriLanka
+7587,DM de Silva,27.0,22.0,104.4,0.0,538.0,9.0,3/39,59.77,5.14,69.7,0.0,0.0,10.0,0.0,bowling,Dhananjaya de Silva,32,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,16,SriLanka
+7588,MADI Hemantha,5.0,4.0,35.0,0.0,193.0,2.0,2/49,96.5,5.51,105.0,0.0,0.0,1.0,0.0,bowling,,,,,,,,,,,,,,16,SriLanka
+7675,JDF Vandersay,1.0,1.0,7.0,0.0,59.0,0.0,0,0.0,8.42,0.0,0.0,0.0,0.0,0.0,bowling,Jeffrey Vandersay,33,Right-handed,Right arm leg break,Spin Bowler,Right,Leg break,,,,,,,16,SriLanka
+7676,MNK Fernando,4.0,1.0,2.0,0.0,22.0,0.0,0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,16,SriLanka
+7763,KNA Bandara,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,,25,,,,,,,,,,,,16,SriLanka
+7850,WIA Fernando,3.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,bowling,,32,,,,,,,,,,,,16,SriLanka
+7937,FDM Karunaratne,16.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,bowling,Dimuth Karunaratne,35,Left-handed,Right arm medium,Batters,Right,Medium,,,,,,,16,SriLanka
+7938,BKG Mendis,31.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,33.0,2.0,bowling,,28,,,,,,,,,,,,16,SriLanka
+8025,P Nissanka,29.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,bowling,Pathum Nissanka,25,Right-handed,Other,Batters,Other,Other,,,,,,,16,SriLanka
+8026,MDKJ Perera,9.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,bowling,,33,,,,,,,,,,,,16,SriLanka
+8113,S Samarawickrama,25.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,bowling,Sadeera Samarawickrama,28,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,16,SriLanka
+8114,Ali Khan,8.0,8.0,59.2,4.0,302.0,19.0,7/32,15.89,5.08,18.7,1.0,0.0,1.0,0.0,bowling,Ali Khan,31,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,4,USA
+8115,G Singh,11.0,4.0,16.5,1.0,90.0,5.0,4/15,18.0,5.34,20.2,0.0,0.0,6.0,0.0,bowling,Ravinderpal Singh,35,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,25,India
+8116,AA Paradkar,2.0,2.0,12.0,0.0,106.0,4.0,3/78,26.5,8.83,18.0,0.0,0.0,0.0,0.0,bowling,Abhishek Paradkar,23,Left-handed,Left arm medium,Pace Bowler,Left,Medium,,,,,,,4,USA
+8117,NK Patel,10.0,10.0,78.2,2.0,366.0,13.0,3/29,28.15,4.67,36.1,0.0,0.0,3.0,0.0,bowling,Monank Patel,30,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,4,USA
+8118,SN Netravalkar,10.0,10.0,90.0,13.0,329.0,10.0,3/53,32.9,3.65,54.0,0.0,0.0,2.0,0.0,bowling,Saurabh Netravalkar,32,Right-handed,Left arm medium,Pace Bowler,Left,Medium,,,,,,,4,USA
+8119,K Phillip,2.0,2.0,16.3,1.0,105.0,3.0,3/56,35.0,6.36,33.0,0.0,0.0,0.0,0.0,bowling,Kyle Phillip,26,Right-handed,Right arm fast medium,Pace Bowler,Right,Fast medium,,,,,,,4,USA
+8120,SR Taylor,8.0,5.0,32.0,1.0,195.0,4.0,3/53,48.75,6.09,48.0,0.0,0.0,1.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+8207,Jasdeep Singh,10.0,10.0,91.4,2.0,536.0,10.0,2/33,53.6,5.84,55.0,0.0,0.0,1.0,0.0,bowling,Jasdeep Singh,30,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,4,USA
+8208,NP Kenjige,11.0,10.0,88.0,3.0,431.0,8.0,2/41,53.87,4.89,66.0,0.0,0.0,6.0,0.0,bowling,Nosthush Kenjige,37,Left-handed,Right arm off spin,Spin Bowler,Right,Off spin,,,,,,,4,USA
+8209,Aaron Jones,10.0,2.0,4.0,0.0,26.0,0.0,0,0.0,6.5,0.0,0.0,0.0,3.0,0.0,bowling,Aaron Jones,29,Right-handed,Right arm leg spin,Batters,Right,Leg spin,,,,,,,4,USA
+8210,Usman Rafiq,2.0,2.0,5.2,0.0,47.0,0.0,0,0.0,8.81,0.0,0.0,0.0,0.0,0.0,bowling,Usman Rafiq,35,Right-handed,Right arm off spin,Spin Bowler,Right,Off spin,,,,,,,4,USA
+8211,SJ Modani,11.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Sushant Modani,34,Right-handed,Right arm off spin,Batters,Right,Off spin,,,,,,,4,USA
+8212,SR Mukkamalla,9.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Saiteja Mukkamalla,19,Right-handed,Right arm off spin,Batters,Right,Off spin,,,,,,,4,USA
+8213,MD Patel,9.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,bowling,Harshal Patel,32,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,16,SriLanka
+8214,Shayan Jahangir,8.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,bowling,Shayan Jahangir,28,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,4,USA
+8215,Sabir Ali,2.0,2.0,3.0,0.0,18.0,1.0,1/10,18.0,6.0,18.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,9,UAE
+8302,Hazrat Bilal,4.0,4.0,26.0,2.0,128.0,5.0,4/47,25.6,4.92,31.2,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,9,UAE
+8389,SM Sharma,8.0,8.0,48.0,3.0,274.0,10.0,3/37,27.4,5.7,28.8,0.0,0.0,4.0,0.0,bowling,Aryansh Sharma,18,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,9,UAE
+8390,Zahoor Khan,22.0,22.0,165.3,9.0,828.0,29.0,3/19,28.55,5.0,34.2,0.0,0.0,5.0,0.0,bowling,Zahoor Khan,34,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,9,UAE
+8391,Junaid Siddique,23.0,22.0,168.4,13.0,870.0,30.0,3/49,29.0,5.15,33.7,0.0,0.0,2.0,0.0,bowling,Junaid Siddique,30,Right-handed,Right arm medium fast,Pace Bowler,Right,Fast medium,,,,,,,9,UAE
+8392,KP Meiyappan,23.0,23.0,133.2,5.0,798.0,27.0,4/45,29.55,5.98,29.6,0.0,0.0,8.0,0.0,bowling,Karthik Meiyappan,23,Right-handed,Right arm leg break,Spin Bowler,Right,Leg break,,,,,,,9,UAE
+8393,Aayan Afzal Khan,22.0,22.0,196.2,10.0,801.0,27.0,3/21,29.66,4.07,43.6,0.0,0.0,1.0,0.0,bowling,Aayan Afzal Khan,18,Right-handed,Slow left arm orthodox,Spin Bowler,Left,Slow left arm,,,,,,,9,UAE
+8394,Rohan Mustafa,24.0,24.0,177.2,11.0,779.0,25.0,3/31,31.16,4.39,42.5,0.0,0.0,10.0,0.0,bowling,Rohan Mustafa,35,Left-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,9,UAE
+8395,Zawar Farid,3.0,3.0,13.0,0.0,97.0,3.0,2/9,32.33,7.46,26.0,0.0,0.0,1.0,0.0,bowling,Zawar Farid,31,Right-handed,Right arm medium,All-Rounders,Right,Medium,,,,,,,9,UAE
+8396,Matiullah Khan,1.0,1.0,5.0,0.0,37.0,1.0,1/37,37.0,7.4,30.0,0.0,0.0,0.0,0.0,bowling,Azam Khan,25,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,9,UAE
+8397,Basil Hameed,9.0,6.0,20.0,2.0,112.0,3.0,2/20,37.33,5.6,40.0,0.0,0.0,3.0,0.0,bowling,Basil Hameed,31,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,9,UAE
+8398,Ali Naseer,9.0,9.0,70.2,2.0,396.0,10.0,2/37,39.6,5.63,42.2,0.0,0.0,0.0,0.0,bowling,Ali Naseer,19,Left-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,9,UAE
+8399,Muhammad Jawadullah,5.0,5.0,37.1,0.0,239.0,6.0,3/46,39.83,6.43,37.1,0.0,0.0,1.0,0.0,bowling,Muhammad Jawadullah,24,Right-handed,Left arm medium fast,Pace Bowler,Left,Fast medium,,,,,,,9,UAE
+8400,Aryan Lakra,14.0,10.0,47.0,4.0,245.0,6.0,3/38,40.83,5.21,47.0,0.0,0.0,7.0,0.0,bowling,Aryan Lakra,21,Left-handed,Slow left arm orthodox,All-Rounders,Left,Slow left arm,,,,,,,9,UAE
+8401,RN Bhatia,1.0,1.0,7.0,0.0,43.0,1.0,1/43,43.0,6.14,42.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,9,UAE
+8488,Adhitya Shetty,1.0,1.0,10.0,1.0,56.0,1.0,1/56,56.0,5.6,60.0,0.0,0.0,1.0,0.0,bowling,,,,,,,,,,,,,,9,UAE
+8575,Rameez Shahzad,11.0,1.0,3.0,0.0,17.0,0.0,0,0.0,5.66,0.0,0.0,0.0,0.0,0.0,bowling,Rameez Shahzad,35,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,9,UAE
+8576,Muhammad Waseem,24.0,2.0,3.0,0.0,33.0,0.0,0,0.0,11.0,0.0,0.0,0.0,11.0,0.0,bowling,Muhammad Waseem,29,Right-handed,Right arm medium,Batters,Right,Medium,,,,,,,9,UAE
+8577,Ansh Tandon,1.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,Ansh Tandon,22,Left-handed,Right arm off break,Batters,Right,Off break,,,,,,,9,UAE
+8578,V Aravind,26.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,8.0,5.0,bowling,Vriitya Aravind,21,Right-handed,Slow left arm orthodox,Wicket Keeper,Left,Slow left arm,,,,,,,9,UAE
+8579,Asif Khan,24.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,bowling,Asif Khan,33,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,9,UAE
+8580,Chirag Suri,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bowling,,28,,,,,,,,,,,,9,UAE
+8667,EC D'Souza,3.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,,31,,,,,,,,,,,,9,UAE
+8754,Lovepreet Singh,2.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,,20,,,,,,,,,,,,9,UAE
+8841,CP Rizwan,9.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,Mohammad Rizwan,31,Right-handed,Other,Wicket Keeper,Other,Other,,,,,,,9,UAE
+8842,A Sharafu,4.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,bowling,Alishan Sharafu,20,Right-handed,Right arm medium,Batters,Right,Medium,,,,,,,9,UAE
+8843,A Sharma,7.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,bowling,Rohit Sharma,36,Right-handed,Right arm off break,Batters,Right,Off break,,,,,,,25,India
+8931,RA Reifer,1.0,1.0,3.0,0.0,16.0,1.0,1/16,16.0,5.33,18.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9018,G Motie,3.0,3.0,26.4,1.0,100.0,6.0,3/36,16.66,3.75,26.6,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9105,K Sinclair,4.0,4.0,35.1,0.0,159.0,6.0,4/24,26.5,4.52,35.1,0.0,0.0,4.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9192,AS Joseph,9.0,9.0,80.4,3.0,472.0,17.0,3/50,27.76,5.85,28.4,0.0,0.0,5.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9279,KMA Paul,7.0,7.0,46.1,1.0,261.0,9.0,3/34,29.0,5.65,30.7,0.0,0.0,4.0,0.0,bowling,Paul Stirling,33,Right-handed,Right arm off break,All-Rounders,Right,Off break,,,,,,,8,WestIndies
+9280,R Shepherd,7.0,7.0,46.5,2.0,264.0,9.0,3/37,29.33,5.63,31.2,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9367,AJ Hosein,9.0,9.0,85.0,4.0,441.0,13.0,3/59,33.92,5.18,39.2,0.0,0.0,2.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9454,Y Cariah,8.0,8.0,51.3,1.0,312.0,9.0,2/26,34.66,6.05,34.3,0.0,0.0,3.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9541,OF Smith,4.0,4.0,23.0,0.0,139.0,4.0,2/40,34.75,6.04,34.5,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,14,Australia
+9628,DC Drakes,3.0,3.0,19.0,2.0,73.0,2.0,2/29,36.5,3.84,57.0,0.0,0.0,1.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9715,KR Mayers,11.0,11.0,55.4,1.0,293.0,8.0,2/30,36.62,5.26,41.7,0.0,0.0,4.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9802,RL Chase,9.0,9.0,74.0,3.0,372.0,8.0,3/77,46.5,5.02,55.5,0.0,0.0,5.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9889,KAR Hodge,3.0,3.0,16.0,0.0,103.0,2.0,2/46,51.5,6.43,48.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+9976,JO Holder,7.0,7.0,59.5,7.0,323.0,6.0,3/34,53.83,5.39,59.8,0.0,0.0,4.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+10063,Akeem Jordan,2.0,2.0,11.0,2.0,56.0,1.0,1/36,56.0,5.09,66.0,0.0,0.0,2.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+10150,JNT Seales,3.0,3.0,18.0,0.0,124.0,2.0,1/21,62.0,6.88,54.0,0.0,0.0,0.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+10237,KU Carty,7.0,1.0,3.0,0.0,18.0,0.0,0,0.0,6.0,0.0,0.0,0.0,2.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+10324,A Athanaze,4.0,1.0,1.0,0.0,7.0,0.0,0,0.0,7.0,0.0,0.0,0.0,3.0,0.0,bowling,,,,,,,,,,,,,,8,WestIndies
+10411,SSJ Brooks,8.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,bowling,,26,,,,,,,,,,,,8,WestIndies
+10498,J Charles,10.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,bowling,Charles Perchard,31,Right-handed,Right arm medium,Pace Bowler,Right,Medium,,,,,,,8,WestIndies
+10499,SO Hetmyer,3.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,,26,,,,,,,,,,,,8,WestIndies
+10586,SD Hope,14.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,14.0,2.0,bowling,,30,,,,,,,,,,,,8,WestIndies
+10673,BA King,14.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,bowling,,28,,,,,,,,,,,,8,WestIndies
+10760,N Pooran,9.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,,28,,,,,,,,,,,,8,WestIndies
+10847,R Powell,6.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,bowling,,30,,,,,,,,,,,,8,WestIndies
+21868,,,,,,0.0,0.0,,0.0,0.0,0.0,,,,,,,,,,,,,,,India,Australia,Australia,6 wickets,0,

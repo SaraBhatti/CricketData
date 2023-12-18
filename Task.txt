@@ -1,0 +1,45 @@
+TASK FIND THE BEST PLAYERS
+
+One Day Internationals
+At least 250 score 
+Best 11 Players 
+
+OPENERS
+Batting Average (Average runs in an inning) > 35
+Strike Rate (Number of runs per 100 balls) > 90
+Innings Batted (Total Innings Batted) > 15
+Boundry % (Percentage of runs scored as a boundry) > 40
+Batting Position (Order in whcih a batter played) < 3
+
+ANCHORS / MIDDLE
+Batting Average (Average runs in an inning) > 40
+Strike Rate (Number of runs per 100 balls) > 85
+Innings Batted (Total Innings Batted) > 20
+Av Balls faced (Average balls faced by the batter in an innings) > 25
+Boundry % (Percentage of runs scored as a boundry) > 35
+Batting Position (Order in whcih a batter played) > 3
+
+FINISHER / LOWER (Batting All Rounder)
+Batting Average (Average runs in an inning) > 30
+Strike Rate (Number of runs per 100 balls) > 100
+Innings Batted (Total Innings Batted) > 10
+Av Balls faced (Average balls faced by the batter in an innings) > 15
+Batting Position (Order in whcih a batter played) > 5
+Innings Bowled (Total Innings bowled) > 5
+
+ALL ROUNDERS / LOWER 
+Batting Average (Average runs in an inning) > 25
+Strike Rate (Number of runs per 100 balls) > 90
+Innings Batted (Total Innings Batted) > 10
+Batting Position (Order in whcih a batter played) > 5
+Innings Bowled (Total Innings Bowled) > 10
+Bowling Economy (Average runs allowed per over) < 6.5
+Bowling Strike Rate (Average number of balls required for a wicket) < 25
+
+FAST BOWLERS
+Innings Bowled (Total Innings Bowled) > 15
+Bowling Economy (Average runs allowed per over) < 6
+Bowling Strike Rate (Average number of balls required for a wicket) < 20
+Bowling Style (Style of player) = '%Fast%'
+Bowling Average (Number of runs per wicket) < 25
+Dot Ball % (Percentage of dot balls bowled) > 35

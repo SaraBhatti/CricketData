@@ -1,0 +1,610 @@
+,Name,Age,Batting style,Bowling style,Role,Country
+0,Abdul Malik,25,Right-handed,—,Batters,Afghanistan
+1,Bahir Shah,23,Right-handed,—,Batters,Afghanistan
+2,Hashmatullah Shahidi,29,Left-handed,Right-arm off break,Batters,Afghanistan
+3,Hazratullah Zazai,25,Left-handed,—,Batters,Afghanistan
+4,Ibrahim Zadran,21,Right-handed,Right-arm medium-fast,Batters,Afghanistan
+5,Najibullah Zadran,30,Left-handed,Right-arm off break,Batters,Afghanistan
+6,Nasir Jamal,29,Right-handed,Right-arm leg break,Batters,Afghanistan
+7,Riaz Hassan,21,Right-handed,—,Batters,Afghanistan
+8,Sediqullah Atal,22,Left-handed,—,Batters,Afghanistan
+9,Usman Ghani,27,Right-handed,Right-arm off break,Batters,Afghanistan
+10,Zia-ur-Rehman,25,Right-handed,Slow left-arm orthodox,All-Rounders,Afghanistan
+11,Amir Hamza,32,Right-handed,Slow left-arm orthodox,All-Rounders,Afghanistan
+12,Azmatullah Omarzai,23,Right-handed,Right-arm medium-fast,All-Rounders,Afghanistan
+13,Gulbadin Naib,32,Right-handed,Right-arm medium-fast,All-Rounders,Afghanistan
+14,Karim Janat,25,Right-handed,Right-arm medium,All-Rounders,Afghanistan
+15,Mohammad Nabi,38,Right-handed,Right-arm off break,All-Rounders,Afghanistan
+16,Rahmat Shah,30,Right-handed,Right-arm leg break,All-Rounders,Afghanistan
+17,Rashid Khan,25,Right-handed,Right-arm leg break,All-Rounders,Afghanistan
+18,Shahidullah Kamal,24,Left-handed,Slow left-arm orthodox,All-Rounders,Afghanistan
+19,Afsar Zazai,30,Right-handed,—,All-Rounders,Afghanistan
+20,Ikram Alikhil,23,Left-handed,—,Wicket Keeper,Afghanistan
+21,Rahmanullah Gurbaz,21,Right-handed,—,Wicket Keeper,Afghanistan
+22,Noor Ahmad,18,Right-handed,Slow left-arm unorthodox,Wicket Keeper,Afghanistan
+23,Zahir Khan,24,Left-handed,Slow left-arm unorthodox,Wicket Keeper,Afghanistan
+24,Mujeeb Ur Rahman,22,Right-handed,Right-arm off break,Spin Bowler,Afghanistan
+25,Abdul Rahman,22,Right-handed,Right-arm medium-fast,Spin Bowler,Afghanistan
+26,Fareed Ahmad,29,Left-handed,Left-arm fast-medium,Spin Bowler,Afghanistan
+27,Fazalhaq Farooqi,23,Right-handed,Left-arm fast-medium,Spin Bowler,Afghanistan
+28,Mohammad Saleem,21,Right-handed,Right-arm fast,Pace Bowler,Afghanistan
+29,Naveen-ul-Haq,24,Right-handed,Right-arm medium-fast,Pace Bowler,Afghanistan
+30,Nijat Masood,24,Right-handed,Right-arm medium,Pace Bowler,Afghanistan
+31,Wafadar Momand,23,Right-handed,Right-arm medium,Pace Bowler,Afghanistan
+32,Yamin Ahmadzai,31,Right-handed,Right-arm medium-fast,Pace Bowler,Afghanistan
+33,Tim David,27,Right-handed,Right-arm off break,Batters,Australia
+34,Peter Handscomb,32,Right-handed,—,Batters,Australia
+35,Marcus Harris,31,Left-handed,—,Batters,Australia
+36,Travis Head,29,Left-handed,Right-arm off break,Batters,Australia
+37,Usman Khawaja,36,Left-handed,Right-arm medium,Batters,Australia
+38,Marnus Labuschagne,29,Right-handed,Right-arm leg break,Batters,Australia
+39,Matt Renshaw,27,Left-handed,Right-arm off break,All-Rounders,Australia
+40,Matt Short,28,Right-handed,Right-arm off break,All-Rounders,Australia
+41,Steve Smith,34,Right-handed,Right-arm leg break,All-Rounders,Australia
+42,Ashton Turner,30,Right-handed,Right-arm off break,All-Rounders,Australia
+43,David Warner,37,Left-handed,Right-arm leg break,All-Rounders,Australia
+44,Sean Abbott,31,Right-handed,Right-arm fast-medium,All-Rounders,Australia
+45,Cameron Green,24,Right-handed,Right-arm fast-medium,All-Rounders,Australia
+46,Aaron Hardie,24,Right-handed,Right-arm medium-fast,All-Rounders,Australia
+47,Mitch Marsh,32,Right-handed,Right-arm medium,All-Rounders,Australia
+48,Glenn Maxwell,35,Right-handed,Right-arm off break,All-Rounders,Australia
+49,Michael Neser,33,Right-handed,Right-arm medium-fast,Wicket Keeper,Australia
+50,Marcus Stoinis,34,Right-handed,Right-arm medium,Wicket Keeper,Australia
+51,Alex Carey,32,Left-handed,—,Wicket Keeper,Australia
+52,Josh Inglis,28,Right-handed,—,Wicket Keeper,Australia
+53,Matthew Wade,35,Left-handed,Right-arm medium,Wicket Keeper,Australia
+54,Jason Behrendorff,33,Right-handed,Left-arm fast-medium,Wicket Keeper,Australia
+55,Scott Boland,34,Right-handed,Right-arm fast-medium,Pace Bowler,Australia
+56,Pat Cummins,30,Right-handed,Right-arm fast,Pace Bowler,Australia
+57,Nathan Ellis,29,Right-handed,Right-arm fast-medium,Pace Bowler,Australia
+58,Josh Hazlewood,32,Left-handed,Right-arm fast-medium,Pace Bowler,Australia
+59,Spencer Johnson,27,Left-handed,Left-arm fast-mediun,Pace Bowler,Australia
+60,Lance Morris,25,Right-handed,Right-arm fast,Pace Bowler,Australia
+61,Jhye Richardson,27,Right-handed,Right-arm fast,Pace Bowler,Australia
+62,Kane Richardson,32,Right-handed,Right-arm fast-medium,Pace Bowler,Australia
+63,Mitchell Starc,33,Left-handed,Left-arm fast,Pace Bowler,Australia
+64,Ashton Agar,30,Left-handed,Slow left-arm orthodox,Pace Bowler,Australia
+65,Matt Kuhnemann,27,Left-handed,Slow left-arm orthodox,Pace Bowler,Australia
+66,Nathan Lyon,35,Right-handed,Right-arm off break,Pace Bowler,Australia
+67,Todd Murphy,23,Left-handed,Right-arm off break,Pace Bowler,Australia
+68,Tanveer Sangha,21,Right-handed,Right-arm leg break,Spin Bowler,Australia
+69,Adam Zampa,31,Right-handed,Right-arm leg break,Spin Bowler,Australia
+70,Yasir Ali,27,Right,Right-arm off break,Batters,Bangladesh
+71,Anamul Haque,30,Right,Right arm medium fast,Batters,Bangladesh
+72,Mominul Haque,32,Left,Slow left-arm orthodox,Batters,Bangladesh
+73,Mahmudul Hasan Joy,23,Right,—,Batters,Bangladesh
+74,Tanzid Hasan,22,Left,—,Batters,Bangladesh
+75,Zakir Hasan,25,Right,—,Batters,Bangladesh
+76,Tamim Iqbal,34,Left,Left arm off break,Batters,Bangladesh
+77,Towhid Hridoy,22,Right,—,Batters,Bangladesh
+78,Soumya Sarkar,30,Left,Right-arm medium fast,Batters,Bangladesh
+79,Najmul Hossain Shanto,25,Left,Right arm off break,Batters,Bangladesh
+80,Rony Talukdar,33,Right,—,Batters,Bangladesh
+81,Mahedi Hasan,28,Right,Right arm off break,All-Rounders,Bangladesh
+82,Afif Hossain,24,Left,Right arm off break,All-Rounders,Bangladesh
+83,Shamim Hossain,23,Left,Right arm off break,All-Rounders,Bangladesh
+84,Mehidy Hasan Miraz,26,Right,Right arm off break,All-Rounders,Bangladesh
+85,Mahmudullah,37,Right,Right arm off break,All-Rounders,Bangladesh
+86,Liton Das,29,Right,Right arm off break,Wicket Keeper,Bangladesh
+87,Mushfiqur Rahim,36,Right,Right arm off break,Wicket Keeper,Bangladesh
+88,Nasum Ahmed,28,Left,Slow left-arm orthodox,Spin Bowler,Bangladesh
+89,Rishad Hossain,21,Right,Right-arm leg break,Spin Bowler,Bangladesh
+90,Khaled Ahmed,31,Right,Right-arm medium,Pace Bowler,Bangladesh
+91,Taskin Ahmed,28,Left,Right-arm fast,Pace Bowler,Bangladesh
+92,Tanzim Hasan,21,Right,Right-arm medium,Pace Bowler,Bangladesh
+93,Shoriful Islam,22,Left,Left-arm medium fast,Pace Bowler,Bangladesh
+94,Hasan Mahmud,24,Right,Right-arm fast-medium,Pace Bowler,Bangladesh
+95,Mustafizur Rahman,28,Left,Left-arm fast medium,Pace Bowler,Bangladesh
+96,Ravinderpal Singh,35,Right-handed,Right-arm off break,Batters,Canada
+97,Matthew Spoors,24,Right-handed,Right-arm leg break,Batters,Canada
+98,Aaron Johnson,,Right-handed,Right-arm off break,Batters,Canada
+99,Navneet Dhaliwal,35,Right-handed,Right-arm medium,Batters,Canada
+100,Pargat Singh,31,Right-handed,Right-arm off break,Batters,Canada
+101,Nicholas Kirton,25,Left-handed,Right-arm off break,Batters,Canada
+102,Saad Bin Zafar,37,Left-handed,Slow left-arm orthodox,All-Rounders,Canada
+103,Rayyan Pathan,31,Right-handed,Right-arm medium,All-Rounders,Canada
+104,Shreyas Movva,30,Right-handed,Slow left-arm orthodox,Wicket Keeper,Canada
+105,Srimantha Wijeyeratne,34,Right-handed,Slow left-arm orthodox,Wicket Keeper,Canada
+106,Hamza Tariq,33,Right-handed,Slow left-arm orthodox,Wicket Keeper,Canada
+107,Armaan Kapoor,28,Right-handed,Slow left-arm orthodox,Wicket Keeper,Canada
+108,Nikhil Dutta,29,Right-handed,Right-arm off break,Spin Bowler,Canada
+109,Salman Nazar,32,Left-handed,Slow left-arm orthodox,Spin Bowler,Canada
+110,Dillon Heyliger,34,Right-handed,Right-arm medium,Pace Bowler,Canada
+111,Jeremy Gordon,36,Right-handed,Right-arm fast,Pace Bowler,Canada
+112,Kaleem Sana,29,Right-handed,Left-arm medium,Pace Bowler,Canada
+113,Ammar Khalid,,Right-handed,Right-arm medium,Pace Bowler,Canada
+114,,,,,,
+115,,,,,,
+116,,,,,,
+117,,,,,,
+118,,,,,,
+119,,,,,,
+120,,,,,,
+121,,,,,,
+122,,,,,,
+123,,,,,,
+124,,,,,,
+125,,,,,,
+126,,,,,,
+127,,,,,,
+128,,,,,,
+129,,,,,,
+130,,,,,,
+131,,,,,,
+132,,,,,,
+133,,,,,,
+134,,,,,,
+135,,,,,,
+136,,,,,,
+137,,,,,,
+138,,,,,,
+139,,,,,,
+140,,,,,,
+141,,,,,,
+142,,,,,,
+143,,,,,,
+144,,,,,,
+145,,,,,,
+146,,,,,,
+147,,,,,,
+148,,,,,,
+149,,,,,,
+150,,,,,,
+151,,,,,,
+152,,,,,,
+153,,,,,,
+154,,,,,,
+155,,,,,,
+156,Rohit Sharma,36,Right-handed,Right-arm off break,Batters,India
+157,Ajinkya Rahane,35,Right-handed,—,Batters,India
+158,Hardik Pandya,30,Right-handed,Right-arm medium-fast,All-Rounders,India
+159,Ruturaj Gaikwad,26,Right-handed,—,Batters,India
+160,Shubman Gill,24,Right-handed,Right-arm off spin,Batters,India
+161,Shreyas Iyer,28,Right-handed,Right-arm leg spin,Batters,India
+162,Yashasvi Jaiswal,21,Left-handed,—,Batters,India
+163,Virat Kohli,35,Right-handed,Right-arm medium,Batters,India
+164,Cheteshwar Pujara,35,Right-handed,Right-arm leg spin,Batters,India
+165,Rinku Singh,26,Left-handed,—,Batters,India
+166,Rahul Tripathi,32,Right-handed,—,Batters,India
+167,Suryakumar Yadav,33,Right-handed,Right-arm off spin,Batters,India
+168,Ravichandran Ashwin,37,Right-handed,Right-arm off spin,All-Rounders,India
+169,Shivam Dube,26,Right-handed,Right-arm medium,All-Rounders,India
+170,Deepak Hooda,28,Right-handed,Right-arm off spin,All-Rounders,India
+171,Ravindra Jadeja,34,Left-handed,Left-arm orthodox spin,All-Rounders,India
+172,Axar Patel,29,Left-handed,Left-arm orthodox spin,All-Rounders,India
+173,Washington Sundar,24,Left-handed,Right-arm off spin,All-Rounders,India
+174,Tilak Varma,21,Left-handed,Right arm off spin,All-Rounders,India
+175,K. S. Bharat,30,Right-handed,—,Wicket Keeper,India
+176,Jitesh Sharma,30,Right-handed,—,Wicket Keeper,India
+177,Ishan Kishan,25,Left-handed,—,Wicket Keeper,India
+178,K. L. Rahul,31,Right-handed,—,Wicket Keeper,India
+179,Sanju Samson,29,Right-handed,—,Wicket Keeper,India
+180,Jasprit Bumrah,29,Right-handed,Right-arm fast,Pace Bowler,India
+181,Mukesh Kumar,30,Right-handed,Right arm medium,Pace Bowler,India
+182,Prasidh Krishna,27,Right-handed,Right arm fast-medium,Pace Bowler,India
+183,Umran Malik,24,Right-handed,Right-arm fast,Pace Bowler,India
+184,Shivam Mavi,24,Right-handed,Right-arm fast-medium,Pace Bowler,India
+185,Harshal Patel,32,Right-handed,Right arm medium,Pace Bowler,India
+186,Mohammed Shami,33,Right-handed,Right-arm fast,Pace Bowler,India
+187,Arshdeep Singh,24,Left-handed,Left-arm medium-fast,Pace Bowler,India
+188,Mohammed Siraj,29,Right-handed,Right-arm fast,Pace Bowler,India
+189,Shardul Thakur,32,Right-handed,Right-arm medium,Pace Bowler,India
+190,Jaydev Unadkat,32,Right-handed,Left-arm medium,Pace Bowler,India
+191,Umesh Yadav,36,Right-handed,Right-arm fast,Pace Bowler,India
+192,Ravi Bishnoi,23,Right-handed,Right-arm leg spin,Spin Bowler,India
+193,Yuzvendra Chahal,33,Right-handed,Right-arm leg spin,Spin Bowler,India
+194,Ravisrinivasan Sai Kishore,27,Left-handed,Left-arm orthodox spin,Spin Bowler,India
+195,Kuldeep Yadav,28,Left-handed,Left-arm unorthodox spin,Spin Bowler,India
+196,Ross Adair,29,Right-handed,—,Batters,Ireland
+197,Andrew Balbirnie,32,Right-handed,Right-arm off-break,Batters,Ireland
+198,Murray Commins,26,Left-handed,—,Batters,Ireland
+199,James McCollum,28,Right-handed,—,Batters,Ireland
+200,Peter Moor,32,Right-handed,—,Batters,Ireland
+201,Harry Tector,23,Right-handed,Right-arm off-break,Batters,Ireland
+202,Neil Rock,23,Left-handed,—,Wicket Keeper,Ireland
+203,Lorcan Tucker,27,Right-handed,—,Wicket Keeper,Ireland
+204,Curtis Campher,24,Right-handed,Right-arm medium-fast,All-Rounders,Ireland
+205,George Dockrell,31,Right-handed,Slow left-arm orthodox,All-Rounders,Ireland
+206,Paul Stirling,33,Right-handed,Right-arm off-break,All-Rounders,Ireland
+207,Mark Adair,27,Right-handed,Right-arm fast-medium,Pace Bowler,Ireland
+208,Matthew Foster,23,Left-handed,Right-arm fast-medium,Pace Bowler,Ireland
+209,Graham Hume,32,Left-handed,Right-arm fast-medium,Pace Bowler,Ireland
+210,Tyrone Kane,29,Right-handed,Right-arm medium-fast,Pace Bowler,Ireland
+211,Josh Little,24,Right-handed,Left-arm fast-medium,Pace Bowler,Ireland
+212,Thomas Mayes,22,Right-handed,Right-arm medium-fast,Pace Bowler,Ireland
+213,Barry McCarthy,31,Right-handed,Right-arm medium,Pace Bowler,Ireland
+214,Conor Olphert,26,Right-handed,Right-arm fast-medium,Pace Bowler,Ireland
+215,Craig Young,33,Right-handed,Right-arm fast-medium,Pace Bowler,Ireland
+216,Matthew Humphreys,21,Right-handed,Slow left-arm orthodox,Spin Bowler,Ireland
+217,Gavin Hoey,22,Right-handed,Right-arm leg-break,Spin Bowler,Ireland
+218,Andy McBrine,30,Left-handed,Right-arm off-break,Spin Bowler,Ireland
+219,Ben White,25,Right-handed,Right-arm leg-break,Spin Bowler,Ireland
+220,Jonty Jenner,25,Right-handed,Right-arm off break,Batters,Jersey
+221,Nick Greenwood,24,Right-handed,,Batters,Jersey
+222,Josh Lawrenson,21,Right-handed,Right-arm off break,Batters,Jersey
+223,Asa Tribe,19,Right-handed,Right-arm off break,Batters,Jersey
+224,Dominic Blampied,27,Right-handed,Right-arm leg break,All-Rounders,Jersey
+225,Harrison Carlyon,22,Right-handed,Right-arm off break,All-Rounders,Jersey
+226,Ben Stevens,31,Left-handed,Slow left-arm orthodox,All-Rounders,Jersey
+227,Anthony Hawkins-Kay,33,Right-handed,Right-arm medium,All-Rounders,Jersey
+228,Benjamin Ward,24,Right-handed,Right-arm leg break,All-Rounders,Jersey
+229,Jake Dunford,29,Right-handed,,Wicket Keeper,Jersey
+230,Elliot Miles,26,Right-handed,Slow left-arm orthodox,Spin Bowler,Jersey
+231,Charles Perchard,31,Right-handed,Right-arm medium,Pace Bowler,Jersey
+232,Julius Sumerauer,22,Right-handed,Right-arm medium,Pace Bowler,Jersey
+233,Daniel Birrell,23,Right-handed,Right-arm medium,Pace Bowler,Jersey
+234,Stephan Baard,31,Right-handed,Right-arm medium-fast,Batters,Namibia
+235,Gerhard Erasmus,28,Right-handed,Right-arm off break,Batters,Namibia
+236,Niko Davin,25,Right-handed,Right-arm leg break,Batters,Namibia
+237,Shaun Fouché,23,Right-handed,Right-arm medium,Batters,Namibia
+238,Joshuan Julius,27,Right-handed,Right-arm medium,Batters,Namibia
+239,Divan la Cock,20,Right-handed,Right-arm leg break,Batters,Namibia
+240,Michael van Lingen,26,Left-handed,Left-arm medium,Batters,Namibia
+241,Karl Birkenstock,27,Left-handed,Right-arm medium-fast,All-Rounders,Namibia
+242,Jan Nicol Loftie-Eaton,22,Left-handed,Right-arm leg break,All-Rounders,Namibia
+243,JJ Smit,28,Right-handed,Left-arm medium-fast,All-Rounders,Namibia
+244,David Wiese,38,Right-handed,Right-arm medium-fast,All-Rounders,Namibia
+245,Michau du Preez,27,Right-handed,Slow left-arm orthodox,Wicket Keeper,Namibia
+246,Zane Green,27,Left-handed,Slow left-arm orthodox,Wicket Keeper,Namibia
+247,Lo-handre Louwrens,24,Right-handed,Slow left-arm orthodox,Wicket Keeper,Namibia
+248,Pikky Ya France,33,Right-handed,Right-arm off break,Spin Bowler,Namibia
+249,Malan Kruger,28,Right-handed,Slow left-arm orthodox,Spin Bowler,Namibia
+250,Mauritius Ngupita,22,Right-handed,Right-arm off break,Spin Bowler,Namibia
+251,Handre Klazinga,25,Left-handed,Left-arm medium-fast,Pace Bowler,Namibia
+252,Tangeni Lungameni,31,Left-handed,Left-arm medium,Pace Bowler,Namibia
+253,Ben Shikongo,23,Right-handed,Right-arm medium-fast,Pace Bowler,Namibia
+254,Ruben Trumpelmann,25,Right-handed,Left-arm fast-medium,Pace Bowler,Namibia
+255,Rohit Paudel,,Right-handed,Right-arm offbreak,Batters,Nepal
+256,Kushal Bhurtel,,Right-handed,Right-arm medium,Batters,Nepal
+257,Aarif Sheikh,,Right-handed,Right-arm medium,Batters,Nepal
+258,Bhim Sharki,,Right-handed,Right-arm offbreak,Batters,Nepal
+259,Sundeep Jora,,Right-handed,Right-arm offbreak,Batters,Nepal
+260,Dipendra Singh Airee,,Right-handed,Right-arm off break,All-Rounders,Nepal
+261,Kushal Malla,,Left-handed,Slow left-arm orthodox,All-Rounders,Nepal
+262,Gulsan Jha,,Left-handed,Right-arm medium,All-Rounders,Nepal
+263,Bibek Yadav,,Right-handed,Right-arm medium,All-Rounders,Nepal
+264,Aasif Sheikh,,Right-handed,Right-arm off break,Wicket Keeper,Nepal
+265,Arjun Saud,,Right-handed,Slow left-arm orthodox,Wicket Keeper,Nepal
+266,Binod Bhandari,,Right-handed,Slow left-arm orthodox,Wicket Keeper,Nepal
+267,Sandeep Lamichhane,,Right-handed,Right-arm Leg break,Spin Bowler,Nepal
+268,Lalit Rajbanshi,,Right-handed,Slow left-arm orthodox,Spin Bowler,Nepal
+269,Sagar Dhakal,,Right-handed,Slow left-arm orthodox,Spin Bowler,Nepal
+270,Mousom Dhakal,,Right-handed,Right-arm offbreak,Spin Bowler,Nepal
+271,Sompal Kami,,Right-handed,Right-arm Fast medium,Pace Bowler,Nepal
+272,Karan KC,,Right-handed,Right-arm Fast medium,Pace Bowler,Nepal
+273,Pratis GC,,Right-handed,Left-arm medium,Pace Bowler,Nepal
+274,Avinash Bohara,,Right-handed,Right-arm medium,Pace Bowler,Nepal
+275,Max O'Dowd,29,Right-handed,Right-arm off break,Batters,Netherlands
+276,Vikramjit Singh,20,Left-handed,Right-arm medium-fast,Batters,Netherlands
+277,Tom Cooper,36,Right-handed,Right-arm off break,Batters,Netherlands
+278,Wesley Barresi,39,Right-handed,Right-arm off break,Batters,Netherlands
+279,Musa Ahmed,25,Left-handed,Right-arm leg break,Batters,Netherlands
+280,Michael Levitt,20,Right-handed,Right-arm medium,Batters,Netherlands
+281,Sybrand Engelbrecht,35,Right-handed,Right-arm off break,Batters,Netherlands
+282,Bas de Leede,24,Right-handed,Right-arm medium-fast,All-Rounders,Netherlands
+283,Teja Nidamanuru,29,Right-handed,Right-arm off break,All-Rounders,Netherlands
+284,Colin Ackermann,32,Right-handed,Right-arm off break,All-Rounders,Netherlands
+285,Saqib Zulfiqar,26,Right-handed,Slow left-arm orthodox,All-Rounders,Netherlands
+286,Roelof van der Merwe,38,Right-handed,Slow left-arm orthodox,All-Rounders,Netherlands
+287,Scott Edwards,27,Right-handed,Slow left-arm orthodox,Wicket Keeper,Netherlands
+288,Noah Croes,23,Right-handed,Slow left-arm orthodox,Wicket Keeper,Netherlands
+289,Aryan Dutt,20,Right-handed,Right-arm off break,Spin Bowler,Netherlands
+290,Shariz Ahmad,20,Left-handed,Right-arm leg break,Spin Bowler,Netherlands
+291,Tim Pringle,21,Right-handed,Slow left-arm orthodox,Spin Bowler,Netherlands
+292,Clayton Floyd,27,Right-handed,Slow left-arm orthodox,Spin Bowler,Netherlands
+293,Logan van Beek,33,Right-handed,Right-arm medium-fast,Pace Bowler,Netherlands
+294,Fred Klaassen,31,Right-handed,Left-arm medium-fast,Pace Bowler,Netherlands
+295,Paul van Meekeren,30,Right-handed,Right-arm medium-fast,Pace Bowler,Netherlands
+296,Ryan Klein,26,Right-handed,Right-arm medium-fast,Pace Bowler,Netherlands
+297,Vivian Kingma,29,Right-handed,Right-arm medium-fast,Pace Bowler,Netherlands
+298,Brandon Glover,26,Right-handed,Right-arm fast,Pace Bowler,Netherlands
+299,Timm van der Gugten,32,Right-handed,Right-arm medium-fast,Pace Bowler,Netherlands
+300,Finn Allen,24,Right-handed,–,Batters,NewZealand
+301,Chad Bowes,31,Right-handed,–,Batters,NewZealand
+302,Henry Nicholls,32,Left-handed,–,Batters,NewZealand
+303,Glenn Phillips,26,Right-handed,Right-arm off spin,Batters,NewZealand
+304,Kane Williamson,33,Right-handed,Right-arm off spin,Batters,NewZealand
+305,Will Young,30,Right-handed,–,Batters,NewZealand
+306,All-rounders,All-rounders,All-rounders,All-rounders,All-Rounders,NewZealand
+307,Michael Bracewell,32,Left-handed,Right-arm off spin,All-Rounders,NewZealand
+308,Mark Chapman,29,Left-handed,Slow left-arm orthodox,All-Rounders,NewZealand
+309,Dean Foxcroft,25,Right-handed,Right-arm off break,All-Rounders,NewZealand
+310,Cole McConchie,31,Right-handed,Right-arm off spin,All-Rounders,NewZealand
+311,Daryl Mitchell,32,Right-handed,Right-arm medium,All-Rounders,NewZealand
+312,James Neesham,33,Left-handed,Right-arm medium fast,All-Rounders,NewZealand
+313,Rachin Ravindra,24,Left-handed,Slow left-arm unorthodox,All-Rounders,NewZealand
+314,Mitchell Santner,31,Left-handed,Slow left-arm orthodox,All-Rounders,NewZealand
+315,Wicket-keepers,Wicket-keepers,Wicket-keepers,Wicket-keepers,Wicket Keeper,NewZealand
+316,Tom Blundell,33,Right-handed,Right-arm off spin,Wicket Keeper,NewZealand
+317,Dane Cleaver,30,Right-handed,–,Wicket Keeper,NewZealand
+318,Devon Conway,32,Left-handed,–,Wicket Keeper,NewZealand
+319,Tim Seifert,28,Right-handed,–,Wicket Keeper,NewZealand
+320,Pace Bowlers,Pace Bowlers,Pace Bowlers,Pace Bowlers,Pace Bowler,NewZealand
+321,Trent Boult,34,Right-handed,Left-arm fast medium,Pace Bowler,NewZealand
+322,Jacob Duffy,29,Right-handed,Right-arm fast medium,Pace Bowler,NewZealand
+323,Lockie Ferguson,32,Right-handed,Right-arm fast,Pace Bowler,NewZealand
+324,Matt Henry,31,Right-handed,Right-arm fast medium,Pace Bowler,NewZealand
+325,Ben Lister,27,Right-handed,Left-arm medium,Pace Bowler,NewZealand
+326,Adam Milne,31,Right-handed,Right-arm fast,Pace Bowler,NewZealand
+327,Henry Shipley,27,Right-handed,Right-arm medium fast,Pace Bowler,NewZealand
+328,Tim Southee,34,Right-handed,Right-arm medium fast,Pace Bowler,NewZealand
+329,Blair Tickner,30,Right-handed,Right-arm medium fast,Pace Bowler,NewZealand
+330,Neil Wagner,37,Left-handed,Left-arm medium fast,Pace Bowler,NewZealand
+331,Spin Bowlers,Spin Bowlers,Spin Bowlers,Spin Bowlers,Spin Bowler,NewZealand
+332,Adithya Ashok,21,Right-handed,Right-arm leg spin,Spin Bowler,NewZealand
+333,Ajaz Patel,35,Left-handed,Slow left-arm orthodox,Spin Bowler,NewZealand
+334,Ish Sodhi,31,Right-handed,Right-arm leg spin,Spin Bowler,NewZealand
+335,Kashyap Prajapati,28,Right-handed,Right-arm off break,Batters,Oman
+336,Jatinder Singh,34,Right-handed,Right-arm off break,Batters,Oman
+337,Shoaib Khan,30,Right-handed,Right-arm medium,Batters,Oman
+338,Sandeep Goud,32,Right-handed,Right-arm medium,Batters,Oman
+339,Ayaan Khan,31,Left-handed,Slow left-arm orthodox,All-Rounders,Oman
+340,Mohammad Nadeem,41,Right-handed,Right-arm medium,All-Rounders,Oman
+341,Zeeshan Maqsood,36,Left-handed,Slow left-arm orthodox,All-Rounders,Oman
+342,Rafiullah,26,Right-handed,Right-arm medium-fast,All-Rounders,Oman
+343,Aqib Ilyas,31,Right-handed,Right-arm off break,All-Rounders,Oman
+344,Naseem Khushi,41,Right-handed,Slow left-arm orthodox,Wicket Keeper,Oman
+345,Suraj Kumar,34,Right-handed,Slow left-arm orthodox,Wicket Keeper,Oman
+346,Adeel Shafique,29,Right-handed,Slow left-arm orthodox,Wicket Keeper,Oman
+347,Jay Odedra,34,Right-handed,Right-arm off break,Spin Bowler,Oman
+348,Samay Shrivastava,32,Right-handed,Right-arm leg break,Spin Bowler,Oman
+349,Shakeel Ahmed,35,Left-handed,Slow left-arm orthodox,Spin Bowler,Oman
+350,Bilal Khan,35,Left-handed,Left-arm medium-fast,Pace Bowler,Oman
+351,Kaleemullah,32,Right-handed,Right-arm medium,Pace Bowler,Oman
+352,Fayyaz Butt,30,Right-handed,Right-arm medium-fast,Pace Bowler,Oman
+353,Iftikhar Ahmed,33,Right-handed,Right-arm off spin,Batters,Pakistan
+354,Saim Ayub,21,Left-handed,—,Batters,Pakistan
+355,Babar Azam,29,Right-handed,Right-arm off spin,Batters,Pakistan
+356,Imam-ul-Haq,27,Left-handed,Right-arm leg spin,Batters,Pakistan
+357,Shan Masood,34,Left-handed,Right-arm medium-fast,Batters,Pakistan
+358,Abdullah Shafique,24,Right-handed,—,Batters,Pakistan
+359,Saud Shakeel,28,Left-handed,Left-arm orthodox,Batters,Pakistan
+360,Tayyab Tahir,30,Right-handed,—,Batters,Pakistan
+361,Fakhar Zaman,33,Left-handed,Left-arm orthodox,Batters,Pakistan
+362,Faheem Ashraf,29,Left-handed,Right-arm medium,All-Rounders,Pakistan
+363,Aamer Jamal,27,Right-handed,Right-arm medium,All-Rounders,Pakistan
+364,Shadab Khan,25,Right-handed,Right-arm leg spin,All-Rounders,Pakistan
+365,Mohammad Nawaz,29,Left-handed,Left-arm orthodox,All-Rounders,Pakistan
+366,Agha Salman,33,Right-handed,Right-arm off spin,All-Rounders,Pakistan
+367,Imad Wasim,34,Left-handed,Left-arm orthodox,All-Rounders,Pakistan
+368,Mohammad Wasim,22,Right-handed,Right-arm fast-medium,All-Rounders,Pakistan
+369,Sarfaraz Ahmed,36,Right-handed,Right-arm off spin,Wicket Keeper,Pakistan
+370,Mohammad Haris,22,Right-handed,—,Wicket Keeper,Pakistan
+371,Azam Khan,25,Right-handed,—,Wicket Keeper,Pakistan
+372,Mohammad Rizwan,31,Right-handed,—,Wicket Keeper,Pakistan
+373,Abrar Ahmed,25,Right-handed,Right-arm leg spin,Spin Bowler,Pakistan
+374,Noman Ali,37,Left-handed,Left-arm orthodox,Spin Bowler,Pakistan
+375,Usama Mir,27,Right-handed,Right-arm leg spin,Spin Bowler,Pakistan
+376,Hasan Ali,29,Right-handed,Right-arm medium-fast,Pace Bowler,Pakistan
+377,Shaheen Afridi,23,Left-handed,Left-arm fast,Pace Bowler,Pakistan
+378,Shahnawaz Dahani,25,Right-handed,Right-arm fast-medium,Pace Bowler,Pakistan
+379,Mir Hamza,31,Left-handed,Left-arm medium,Pace Bowler,Pakistan
+380,Ihsanullah,21,Right-handed,Right-arm fast,Pace Bowler,Pakistan
+381,Zaman Khan,22,Right-handed,Right-arm fast,Pace Bowler,Pakistan
+382,Haris Rauf,30,Right-handed,Right-arm fast,Pace Bowler,Pakistan
+383,Naseem Shah,20,Right-handed,Right-arm fast,Pace Bowler,Pakistan
+384,Khurram Shahzad,23,Right-handed,Right-arm medium,Pace Bowler,Pakistan
+385,Sese Bau,31,Left-handed,Right-arm medium,Batters,Papua_New_Guinea
+386,Tony Ura,34,Right-handed,,Batters,Papua_New_Guinea
+387,Lega Siaka,30,Right-handed,Right-arm leg break,Batters,Papua_New_Guinea
+388,Hiri Hiri,28,Right-handed,Right-arm off break,Batters,Papua_New_Guinea
+389,Gaudi Toka,29,Left-handed,Right-arm medium,Batters,Papua_New_Guinea
+390,Assad Vala,36,Right-handed,Right-arm off break,All-Rounders,Papua_New_Guinea
+391,Norman Vanua,29,Right-handed,Right-arm medium,All-Rounders,Papua_New_Guinea
+392,Charles Amini,31,Left-handed,Right-arm leg break,All-Rounders,Papua_New_Guinea
+393,Chad Soper,32,Right-handed,Right-arm medium,All-Rounders,Papua_New_Guinea
+394,Simon Atai,24,Left-handed,Slow left-arm orthodox,All-Rounders,Papua_New_Guinea
+395,Kiplin Doriga,28,Right-handed,,Wicket Keeper,Papua_New_Guinea
+396,Hila Vare,22,Left-handed,,Wicket Keeper,Papua_New_Guinea
+397,John Kariko,19,Left-handed,Slow left-arm orthodox,Spin Bowler,Papua_New_Guinea
+398,Riley Hekure,28,Right-handed,Right-arm medium,Pace Bowler,Papua_New_Guinea
+399,Semo Kamea,22,Left-handed,Left-arm fast,Pace Bowler,Papua_New_Guinea
+400,Kabua Morea,30,Right-handed,Left-arm medium,Pace Bowler,Papua_New_Guinea
+401,Alei Nao,29,Right-handed,Right-arm medium,Pace Bowler,Papua_New_Guinea
+402,Damien Ravu,29,Right-handed,Right-arm medium,Pace Bowler,Papua_New_Guinea
+403,Richie Berrington (Captain),36,Right-handed,Right-arm medium-fast,Batters,Scotland
+404,Oli Hairs,32,Left-handed,Right-arm off break,Batters,Scotland
+405,Christopher McBride,24,Right-handed,Right-arm medium,Batters,Scotland
+406,George Munsey,30,Left-handed,Right-arm medium-fast,Batters,Scotland
+407,Jack Jarvis,20,Right-handed,Right-arm medium,All-Rounders,Scotland
+408,Chris Greaves,33,Right-handed,Right-arm leg-break,All-Rounders,Scotland
+409,Michael Leask,33,Right-handed,Right-arm off break,All-Rounders,Scotland
+410,Brandon McMullen,24,Right-handed,Right-arm medium,All-Rounders,Scotland
+411,Matthew Cross (Vice-captain),31,Right-handed,"ODI, T20I",Wicket Keeper,Scotland
+412,Tom Mackintosh,20,Right-handed,"ODI, T20I",Wicket Keeper,Scotland
+413,Hamza Tahir,28,Right-handed,Slow left-arm orthodox,Spin Bowler,Scotland
+414,Mark Watt,27,Left-handed,Slow left-arm orthodox,Spin Bowler,Scotland
+415,Brad Currie,25,Right-handed,Left-arm medium-fast,Pace Bowler,Scotland
+416,Alasdair Evans,34,Right-handed,Right-arm medium-fast,Pace Bowler,Scotland
+417,Gavin Main,28,Right-handed,Right-arm fast,Pace Bowler,Scotland
+418,Adrian Neill,29,Right-handed,Right-arm medium-fast,Pace Bowler,Scotland
+419,Safyaan Sharif,32,Right-handed,Right-arm medium-fast,Pace Bowler,Scotland
+420,Chris Sole,29,Right-handed,Right-arm fast,Pace Bowler,Scotland
+421,Temba Bavuma,33,Right-handed,Right-arm medium,Batters,SouthAfrica
+422,Matthew Breetzke,25,Right-handed,—,Batters,SouthAfrica
+423,Dean Elgar,36,Left-handed,Left-arm orthodox,Batters,SouthAfrica
+424,Sarel Erwee,34,Left-handed,—,Batters,SouthAfrica
+425,Tony De Zorzi,26,Left-handed,—,Batters,SouthAfrica
+426,Reeza Hendricks,34,Right-handed,Right-arm off break,Batters,SouthAfrica
+427,Aiden Markram,29,Right-handed,Right arm off break,Batters,SouthAfrica
+428,David Miller,34,Left-handed,—,Batters,SouthAfrica
+429,Keegan Petersen,30,Right-handed,—,Batters,SouthAfrica
+430,Rilee Rossouw,34,Left-handed,Right-arm off break,Batters,SouthAfrica
+431,Rassie van der Dussen,34,Right-handed,Right-arm leg break,Batters,SouthAfrica
+432,Khaya Zondo,33,Right-handed,—,Batters,SouthAfrica
+433,Dewald Brevis,20,Right-handed,—,All-Rounders,SouthAfrica
+434,Donovan Ferreira,25,Right-handed,—,All-Rounders,SouthAfrica
+435,Marco Jansen,23,Right-handed,Left-arm medium-fast,All-Rounders,SouthAfrica
+436,Wiaan Mulder,25,Right-handed,Right-arm medium,All-Rounders,SouthAfrica
+437,Senuran Muthusamy,29,Left-handed,Left-arm orthodox,All-Rounders,SouthAfrica
+438,Andile Phehlukwayo,27,Left-handed,Right-arm medium-fast,All-Rounders,SouthAfrica
+439,Quinton de Kock,30,Left-handed,—,Wicket Keeper,SouthAfrica
+440,Heinrich Klaasen,32,Right-handed,Right-arm off break,Wicket Keeper,SouthAfrica
+441,Ryan Rickelton,27,Left-handed,—,Wicket Keeper,SouthAfrica
+442,Tristan Stubbs,23,Right-handed,Right-arm off break,Wicket Keeper,SouthAfrica
+443,Kyle Verreynne,26,Right-handed,—,Wicket Keeper,SouthAfrica
+444,Bjorn Fortuin,29,Right-handed,Left-arm orthodox,Spin Bowler,SouthAfrica
+445,Simon Harmer,34,Right-handed,Right-arm off break,Spin Bowler,SouthAfrica
+446,Keshav Maharaj,33,Right-handed,Left-arm orthodox,Spin Bowler,SouthAfrica
+447,Tabraiz Shamsi,33,Right-handed,Left-arm unorthodox,Spin Bowler,SouthAfrica
+448,Gerald Coetzee,23,Right-handed,Right-arm fast,Seam Bowler,SouthAfrica
+449,Sisanda Magala,32,Right-handed,Right-arm fast-medium,Seam Bowler,SouthAfrica
+450,Lungi Ngidi,27,Right-handed,Right-arm fast-medium,Seam Bowler,SouthAfrica
+451,Anrich Nortje,30,Right-handed,Right-arm fast,Seam Bowler,SouthAfrica
+452,Wayne Parnell,34,Left-handed,Left-arm medium-fast,Seam Bowler,SouthAfrica
+453,Kagiso Rabada,28,Left-handed,Right-arm fast,Seam Bowler,SouthAfrica
+454,Lizaad Williams,30,Left-handed,Right-arm medium-fast,Seam Bowler,SouthAfrica
+455,Ashen Bandara,24,Right-handed,Right-arm leg break,Batters,SriLanka
+456,Dinesh Chandimal,34,Right-handed,—,Batters,SriLanka
+457,Lasith Croospulle,25,Right-handed,—,Batters,SriLanka
+458,Shevon Daniel,19,Left-handed,—,Batters,SriLanka
+459,Avishka Fernando,25,Right-handed,—,Batters,SriLanka
+460,Nuwanidu Fernando,24,Right-handed,Right-arm off break,Batters,SriLanka
+461,Oshada Fernando,31,Right-handed,Right-arm leg break,Batters,SriLanka
+462,Dimuth Karunaratne,35,Left-handed,Right-arm medium,Batters,SriLanka
+463,Pathum Nissanka,25,Right-handed,—,Batters,SriLanka
+464,Kusal Perera,33,Left-handed,—,Batters,SriLanka
+465,Bhanuka Rajapaksa,32,Left-handed,—,Batters,SriLanka
+466,Sahan Arachchige,27,Left-handed,Right-arm off break,All-Rounders,SriLanka
+467,Charith Asalanka,26,Left-handed,Right-arm off break,All-Rounders,SriLanka
+468,Dhananjaya de Silva,32,Right-handed,Right-arm off break,All-Rounders,SriLanka
+469,Ravindu Fernando,24,Right-handed,Right-arm off break,All-Rounders,SriLanka
+470,Wanindu Hasaranga,26,Right-handed,Right-arm leg break,All-Rounders,SriLanka
+471,Dushan Hemantha,29,Right-handed,Right-arm leg break,All-Rounders,SriLanka
+472,Chamika Karunaratne,27,Right-handed,Right-arm medium-fast,All-Rounders,SriLanka
+473,Angelo Mathews,36,Right-handed,Right-arm medium,All-Rounders,SriLanka
+474,Ramesh Mendis,28,Right-handed,Right-arm off break,All-Rounders,SriLanka
+475,Lahiru Samarakoon,26,Left-handed,Right-arm Fast,All-Rounders,SriLanka
+476,Dasun Shanaka,32,Right-handed,Right-arm medium,All-Rounders,SriLanka
+477,Nimesh Vimukthi,26,Left-handed,Slow left-arm orthodox,All-Rounders,SriLanka
+478,Dunith Wellalage,20,Left-handed,Slow left-arm orthodox,All-Rounders,SriLanka
+479,Niroshan Dickwella,30,Left-handed,—,Wicket Keeper,SriLanka
+480,Nishan Madushka,24,Right-handed,—,Wicket Keeper,SriLanka
+481,Kusal Mendis,28,Right-handed,Right-arm leg spin,Wicket Keeper,SriLanka
+482,Sadeera Samarawickrama,28,Right-handed,—,Wicket Keeper,SriLanka
+483,Lahiru Udara,29,Right-handed,—,Wicket Keeper,SriLanka
+484,Prabath Jayasuriya,32,Right-handed,Slow left-arm orthodox,Spin Bowler,SriLanka
+485,Maheesh Theekshana,23,Right-handed,Right-arm off break,Spin Bowler,SriLanka
+486,Jeffrey Vandersay,33,Right-handed,Right-arm leg break,Spin Bowler,SriLanka
+487,Vijayakanth Viyaskanth,21,Right-handed,Right-arm Leg break,Spin Bowler,SriLanka
+488,Dushmantha Chameera,31,Right-handed,Right-arm fast,Pace Bowler,SriLanka
+489,Asitha Fernando,26,Right-handed,Right-arm medium-fast,Pace Bowler,SriLanka
+490,Vishwa Fernando,32,Right-handed,Left-arm medium-fast,Pace Bowler,SriLanka
+491,Lahiru Kumara,26,Left-handed,Right-arm fast,Pace Bowler,SriLanka
+492,Pramod Madushan,29,Right-handed,Right-arm medium-fast,Pace Bowler,SriLanka
+493,Dilshan Madushanka,23,Right-handed,Left-arm fast-medium,Pace Bowler,SriLanka
+494,Matheesha Pathirana,20,Right-handed,Right-arm fast,Pace Bowler,SriLanka
+495,Kasun Rajitha,30,Right-handed,Right-arm medium-fast,Pace Bowler,SriLanka
+496,Nuwan Thushara,29,Right-handed,Right-arm medium-fast,Pace Bowler,SriLanka
+497,Muhammad Waseem,29,Right-handed,Right-arm medium,Batters,UAE
+498,Chundangapoyil Rizwan,35,Right-handed,Right-arm leg break,Batters,UAE
+499,Asif Khan,33,Right-handed,Right-arm off break,Batters,UAE
+500,Alishan Sharafu,20,Right-handed,Right-arm medium,Batters,UAE
+501,Rameez Shahzad,35,Right-handed,Right-arm off break,Batters,UAE
+502,Ethan D'Souza,,Left-handed,Right-arm off break,Batters,UAE
+503,Fahad Nawaz,23,Right-handed,Slow left-arm orthodox,Batters,UAE
+504,Ansh Tandon,22,Left-handed,Right-arm off break,Batters,UAE
+505,Rohan Mustafa,35,Left-handed,Right-arm off break,All-Rounders,UAE
+506,Basil Hameed,31,Right-handed,Right-arm off break,All-Rounders,UAE
+507,Aryan Lakra,21,Left-handed,Slow left-arm orthodox,All-Rounders,UAE
+508,Zawar Farid,31,Right-handed,Right-arm medium,All-Rounders,UAE
+509,Vriitya Aravind,21,Right-handed,Slow left-arm orthodox,Wicket Keeper,UAE
+510,Aryansh Sharma,18,Right-handed,Slow left-arm orthodox,Wicket Keeper,UAE
+511,Aayan Afzal Khan,18,Right-handed,Slow left-arm orthodox,Spin Bowler,UAE
+512,Karthik Meiyappan,23,Right-handed,Right-arm leg break,Spin Bowler,UAE
+513,Junaid Siddique,30,Right-handed,Right-arm medium-fast,Pace Bowler,UAE
+514,Zahoor Khan,34,Right-handed,Right-arm medium-fast,Pace Bowler,UAE
+515,Sanchit Sharma,22,Right-handed,Right-arm medium,Pace Bowler,UAE
+516,Ali Naseer,19,Left-handed,Right-arm medium,Pace Bowler,UAE
+517,Muhammad Jawadullah,24,Right-handed,Left-arm medium-fast,Pace Bowler,UAE
+518,Akif Raja,30,Left-handed,Right-arm medium-fast,Pace Bowler,UAE
+519,Gajanand Singh,36,Left-handed,Left-arm medium,Batters,USA
+520,Aaron Jones,29,Right-handed,Right-arm leg spin,Batters,USA
+521,Sushant Modani,34,Right-handed,Right-arm off spin,Batters,USA
+522,Saiteja Mukkamalla,19,Right-handed,Right-arm off spin,Batters,USA
+523,Marty Kain,35,Left-handed,Slow left-arm orthodox,Batters,USA
+524,Nisarg Patel,30,Right-handed,Right-arm off spin,All-Rounders,USA
+525,Steven Taylor,30,Left-handed,Right-arm off spin,All-Rounders,USA
+526,Vatsal Vaghela,21,Left-handed,Slow left-arm orthodox,All-Rounders,USA
+527,Monank Patel,30,Right-handed,Slow left-arm orthodox,Wicket Keeper,USA
+528,Jaskaran Malhotra,28,Right-handed,Slow left-arm orthodox,Wicket Keeper,USA
+529,Shayan Jahangir,28,Right-handed,Slow left-arm orthodox,Wicket Keeper,USA
+530,Nosthush Kenjige,37,Left-handed,Right-arm off spin,Spin Bowler,USA
+531,Yasir Mohammad,21,Left-handed,Right-arm leg spin,Spin Bowler,USA
+532,Usman Rafiq,35,Right-handed,Right-arm off spin,Spin Bowler,USA
+533,Saurabh Netravalkar,32,Right-handed,Left-arm medium,Pace Bowler,USA
+534,Cameron Stevenson,31,Right-handed,Right-arm fast-medium,Pace Bowler,USA
+535,Ali Khan,31,Right-handed,Right-arm medium,Pace Bowler,USA
+536,Rusty Theron,38,Right-handed,Right-arm fast-medium,Pace Bowler,USA
+537,Jasdeep Singh,30,Right-handed,Right-arm medium,Pace Bowler,USA
+538,Siva Kumar,33,Right-handed,Right-arm fast-medium,Pace Bowler,USA
+539,Kyle Phillip,26,Right-handed,Right-arm fast-medium,Pace Bowler,USA
+540,Abhishek Paradkar,23,Left-handed,Left-arm medium,Pace Bowler,USA
+541,,,,,,
+542,,,,,,
+543,,,,,,
+544,,,,,,
+545,,,,,,
+546,,,,,,
+547,,,,,,
+548,,,,,,
+549,,,,,,
+550,,,,,,
+551,,,,,,
+552,,,,,,
+553,,,,,,
+554,,,,,,
+555,,,,,,
+556,,,,,,
+557,,,,,,
+558,,,,,,
+559,,,,,,
+560,,,,,,
+561,,,,,,
+562,,,,,,
+563,,,,,,
+564,,,,,,
+565,,,,,,
+566,,,,,,
+567,,,,,,
+568,,,,,,
+569,,,,,,
+570,,,,,,
+571,,,,,,
+572,,,,,,
+573,,,,,,
+574,,,,,,
+575,,,,,,
+576,,,,,,
+577,,,,,,
+578,,,,,,
+579,,,,,,
+580,,,,,,
+581,,,,,,
+582,,,,,,
+583,,,,,,
+584,,,,,,
+585,,,,,,
+586,Ryan Burl,29,Left-handed,LB,Batters,Zimbabwe
+587,Chamu Chibhabha,37,Right-handed,RM,Batters,Zimbabwe
+588,Craig Ervine,38,Left-handed,—,Batters,Zimbabwe
+589,Innocent Kaia,31,Right-handed,LB,Batters,Zimbabwe
+590,Tanunurwa Makoni,23,Right-handed,—,Batters,Zimbabwe
+591,Tadiwanashe Marumani,21,Left-handed,—,Batters,Zimbabwe
+592,Milton Shumba,22,Left-handed,SLO,Batters,Zimbabwe
+593,Sean Williams,37,Left-handed,SLO,Batters,Zimbabwe
+594,Brad Evans,26,Right-handed,RF,All-Rounders,Zimbabwe
+595,Luke Jongwe,28,Right-handed,RFM,All-Rounders,Zimbabwe
+596,Wesley Madhevere,23,Right-handed,OB,All-Rounders,Zimbabwe
+597,Brandon Mavuta,26,Right-handed,LB,All-Rounders,Zimbabwe
+598,Tony Munyonga,24,Right-handed,OB,All-Rounders,Zimbabwe
+599,Sikandar Raza,37,Right-handed,OB,All-Rounders,Zimbabwe
+600,Tafadzwa Tsiga,29,Right-handed,-,Wicket Keeper,Zimbabwe
+601,Clive Madande,23,Right-handed,-,Wicket Keeper,Zimbabwe
+602,Wellington Masakadza,30,Left-handed,SLO,Spin Bowler,Zimbabwe
+603,Tendai Chatara,32,Right-handed,RFM,Pace Bowler,Zimbabwe
+604,Tanaka Chivanga,30,Right-handed,RF,Pace Bowler,Zimbabwe
+605,Richard Ngarava,25,Left-handed,LFM,Pace Bowler,Zimbabwe
+606,Victor Nyauchi,31,Right-handed,RFM,Pace Bowler,Zimbabwe
+607,Blessing Muzarabani,27,Right-handed,RFM,Pace Bowler,Zimbabwe
+608,Donald Tiripano,35,Right-handed,RFM,Pace Bowler,Zimbabwe
