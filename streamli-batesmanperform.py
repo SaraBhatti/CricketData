@@ -4,10 +4,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
 
-# Load your batting data (replace 'batsman_data.csv' with the actual file path)
+# Load your batting data 
 all_batters = pd.read_csv('all_batters.csv')
 
-# Assuming 'Inns', 'Mat', 'Ave', 'SR' as input features
 features = ['Inns', 'Mat', 'Ave', 'SR']
 
 # Extracting features and target variable
@@ -24,7 +23,6 @@ model_rf.fit(X_train, y_train)
 # Streamlit app
 st.title("How's many runs will you make?")
 
-# Corrected background image URL
 background_image_url = "https://static.vecteezy.com/system/resources/previews/021/916/215/large_2x/batsman-playing-cricket-championship-sports-free-photo.jpg"
 
 background_image = f"""
